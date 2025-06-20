@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Random Movie Quotes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="content-wrapper">
+    <h1>Random Movie Quotes</h1>
+    <p class="subtitle">Press the button below to get inspired by a movie quote!</p>
+
+    <button id="quoteBtn">Show Me a Quote</button>
+
+    <div id="quoteBox">
+      <p id="quoteText"></p>
+      <p id="quoteInfo"></p>
+      <!-- Poster image will be injected here -->
+    </div>
+
+    <div class="image-share-buttons">
+      <button id="shareImageBtn">📤 Share Quote Image</button>
+      <button id="shareBtn">📸 Save as Image</button>
+    </div>
+    <button id="langToggle" aria-pressed="false">En español</button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script src="script.js"></script>
+
+  <footer>© 2025 Luis Espinoza — Movie Quotes</footer>
+</body>
+</html>

@@ -1,0 +1,205 @@
+body {
+  background-color: #FFF8F0;
+  color: #444444;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.content-wrapper {
+  margin-top: 10vh;
+  max-width: 600px;
+  width: 90%;
+}
+
+h1 {
+  color: #FF6F61;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  color: #555555;
+  font-size: 1.125rem;
+  margin-bottom: 3rem;
+  font-weight: 500;
+}
+
+#quoteBox {
+  background-color: #D6C6F2;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+  color: #333333;
+}
+
+#quoteText {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin-bottom: 1.25rem;
+  color: #333333;
+}
+
+#quoteInfo {
+  color: #333333;
+  font-weight: 400;
+}
+
+#quoteInfo strong {
+  font-weight: 700;
+}
+
+#quoteBtn {
+  background-color: #FFE28A;
+  color: #444444;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: 1rem;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease;
+  user-select: none;
+  margin-bottom: 1.5rem;
+}
+
+#quoteBtn:hover {
+  background-color: #FFD75F;
+}
+
+#shareBtn, #shareImageBtn {
+  background-color: #FF6F61;
+  color: #FFF8F0;
+  padding: 0.5rem 1.25rem;
+  border: none;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease;
+}
+
+#shareBtn:hover, #shareImageBtn:hover {
+  background-color: #e75a4f;
+}
+
+#langToggle {
+  background-color: #A3D5FF;
+  color: #444444;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+#langToggle[aria-pressed="true"] {
+  background-color: #FF6F61;
+  color: #FFF8F0;
+}
+
+#langToggle:hover {
+  background-color: #B6E2D3;
+}
+
+#imdbImage {
+  width: 150px;
+  border-radius: 1rem;
+  margin: 1rem auto 0;
+  display: block;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+footer {
+  color: #666666;
+  font-size: 0.875rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  max-width: 600px;
+  width: 90%;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  #quoteBox {
+    padding: 1.5rem;
+  }
+
+  #quoteText {
+    font-size: 1.1rem;
+  }
+
+  #quoteInfo {
+    font-size: 0.95rem;
+  }
+
+  #quoteBtn, #langToggle, #shareBtn, #shareImageBtn {
+    width: 100%;
+  }
+
+  footer {
+    font-size: 0.8rem;
+  }
+
+  .image-share-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.image-share-buttons button {
+  background-color: #FF6F61;
+  color: #FFF8F0;
+  padding: 0.5rem 1.25rem;
+  border: none;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease;
+  min-width: 150px;
+  user-select: none;
+}
+
+.image-share-buttons button:hover {
+  background-color: #e75a4f;
+}
+
+@media (max-width: 480px) {
+  .image-share-buttons {
+    flex-direction: column;
+  }
+  .image-share-buttons button {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+}
