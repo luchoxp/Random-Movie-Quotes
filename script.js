@@ -1,14 +1,15 @@
 let quotes = [];
 let isSpanish = false;
 
-Papa.parse("quotes.csv", {
-  download: true,
-  header: true,
-  complete: function(results) {
-    quotes = results.data.filter(q => q.quote && q.character && q.movie);
-  }
-});
-
+fetch("quotes.json")
+  .then(response => response.json())
+  .then(data => {
+    quotes = data.filter(q => q.quote && q.character && q.movie);
+  })
+  .catch(error => {
+    console.error("Failed to load quotes:", error);
+  });
+  
 const quoteBtn = document.getElementById("quoteBtn");
 const langToggle = document.getElementById("langToggle");
 const quoteTextElem = document.getElementById("quoteText");

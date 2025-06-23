@@ -1,0 +1,722 @@
+[
+  {
+    "quote": "Get busy living, or get busy dying.",
+    "quote_spa": "Ocúpate en vivir, o en morir.",
+    "movie": "The Shawshank Redemption (1994)",
+    "movie_spa": "Cadena perpetua (1994)",
+    "character": "Andy Dufresne",
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+  },
+  {
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "quote_spa": "La esperanza es algo bueno, quizá lo mejor de todo, y las cosas buenas nunca mueren.",
+    "movie": "The Shawshank Redemption (1994)",
+    "movie_spa": "Cadena perpetua (1994)",
+    "character": "Andy Dufresne",
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm2108642304/"
+  },
+  {
+    "quote": "Don’t ever let somebody tell you you can’t do something. Not even me. You got a dream, you gotta protect it. If you want something, go get it. Period.",
+    "quote_spa": "Nunca dejes que nadie te diga que no puedes hacer algo, ni siquiera yo. Si tienes un sueño, tienes que protegerlo. Si quieres algo, ve y consíguelo. Punto.",
+    "movie": "The Pursuit of Happyness (2006)",
+    "movie_spa": "En busca de la felicidad (2006)",
+    "character": "Chris Gardner",
+    "image_link": "https://www.imdb.com/title/tt0454921/mediaviewer/rm4166675456/"
+  },
+  {
+    "quote": "It’s not who we are underneath, but what we do that defines us.",
+    "quote_spa": "No es quiénes somos por dentro, sino lo que hacemos lo que nos define.",
+    "movie": "Batman Begins (2005)",
+    "movie_spa": "Batman inicia (2005)",
+    "character": "Bruce Wayne / Batman",
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1078390272/"
+  },
+  {
+    "quote": "Why do we fall, sir? So that we can learn to pick ourselves up.",
+    "quote_spa": "¿Por qué caemos, señor? Para aprender a levantarnos.",
+    "movie": "Batman Begins (2005)",
+    "movie_spa": "Batman inicia (2005)",
+    "character": "Alfred Pennyworth",
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm2240422912/"
+  },
+  {
+    "quote": "It is not our abilities that show what we truly are… it is our choices.",
+    "quote_spa": "No son nuestras habilidades las que muestran quiénes somos realmente... son nuestras elecciones.",
+    "movie": "Harry Potter and the Chamber of Secrets (2002)",
+    "movie_spa": "Harry Potter y la cámara secreta (2002)",
+    "character": "Albus Dumbledore",
+    "image_link": "https://www.imdb.com/title/tt0295297/mediaviewer/rm3816584448/"
+  },
+  {
+    "quote": "Let me tell you something you already know. The world ain’t all sunshine and rainbows… it’s about how hard you can get hit and keep moving forward.",
+    "quote_spa": "Déjame decirte algo que ya sabes. El mundo no es todo sol y arcoíris... se trata de qué tan duro puedes ser golpeado y seguir adelante.",
+    "movie": "Rocky Balboa (2006)",
+    "movie_spa": "Rocky Balboa (2006)",
+    "character": "Rocky Balboa",
+    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/"
+  },
+  {
+    "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it.",
+    "quote_spa": "La única cosa que se interpone entre tú y tu meta es la mentira que te sigues contando sobre por qué no puedes lograrlo.",
+    "movie": "The Wolf of Wall Street (2013)",
+    "movie_spa": "El lobo de Wall Street (2013)",
+    "character": "Jordan Belfort",
+    "image_link": "https://www.imdb.com/title/tt0993846/mediaviewer/rm1559367424/"
+  },
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "quote_spa": "La mayor gloria en la vida no está en nunca caer, sino en levantarnos cada vez que caemos.",
+    "movie": "Invictus (2009)",
+    "movie_spa": "Invictus (2009)",
+    "character": "Nelson Mandela",
+    "image_link": "https://www.imdb.com/title/tt1057500/mediaviewer/rm1126240512/"
+  },
+  {
+    "quote": "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do and succeed at. While there's life, there is hope.",
+    "quote_spa": "No debe haber límites para el esfuerzo humano. Todos somos diferentes. Por muy mala que parezca la vida, siempre hay algo que puedes hacer y en lo que puedes triunfar. Mientras haya vida, hay esperanza.",
+    "movie": "The Theory of Everything (2014)",
+    "movie_spa": "La teoría del todo (2014)",
+    "character": "Stephen Hawking",
+    "image_link": "https://www.imdb.com/title/tt2980516/mediaviewer/rm105637760/"
+  },
+  {
+    "quote": "Do or do not. There is no try.",
+    "quote_spa": "Hazlo o no lo hagas, pero no lo intentes.",
+    "movie": "Star Wars: The Empire Strikes Back (1980)",
+    "movie_spa": "Star Wars: Episodio V - El Imperio Contraataca (1980)",
+    "character": "Yoda",
+    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/"
+  },
+  {
+    "quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
+    "quote_spa": "La vida se mueve muy rápido. Si no te detienes y miras a tu alrededor de vez en cuando, puedes perdértela.",
+    "movie": "Ferris Bueller’s Day Off (1986)",
+    "movie_spa": "Todo en un día (1986)",
+    "character": "Ferris Bueller",
+    "image_link": "https://www.imdb.com/title/tt0091042/mediaviewer/rm1710406656/"
+  },
+  {
+    "quote": "Sometimes the right path is not the easiest one.",
+    "quote_spa": "A veces, el camino correcto no es el más fácil.",
+    "movie": "Pocahontas (1995)",
+    "movie_spa": "Pocahontas (1995)",
+    "character": "Grandmother Willow",
+    "image_link": "https://www.imdb.com/title/tt0114148/mediaviewer/rm2627606016/"
+  },
+  {
+    "quote": "Nothing happens to anyone that he is not fitted by nature to bear.",
+    "quote_spa": "Nada le sucede a nadie que no esté hecho para soportar.",
+    "movie": "Gladiator (2000)",
+    "movie_spa": "Gladiador (2000)",
+    "character": "Maximus",
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+  },
+  {
+    "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
+    "quote_spa": "Sólo después de haberlo perdido todo, somos libres para hacer cualquier cosa.",
+    "movie": "Fight Club (1999)",
+    "movie_spa": "El club de la pelea (1999)",
+    "character": "Tyler Durden",
+    "image_link": "https://www.imdb.com/title/tt0137523/mediaviewer/rm4261350912/"
+  },
+  {
+    "quote": "Every man dies, but not every man really lives.",
+    "quote_spa": "Todo hombre muere, pero no todos realmente viven.",
+    "movie": "Braveheart (1995)",
+    "movie_spa": "Corazón valiente (1995)",
+    "character": "William Wallace",
+    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/"
+  },
+  {
+    "quote": "There’s no place like home.",
+    "quote_spa": "No hay lugar como el hogar.",
+    "movie": "The Wizard of Oz (1939)",
+    "movie_spa": "El mago de Oz (1939)",
+    "character": "Dorothy Gale",
+    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/"
+  },
+  {
+    "quote": "After all, tomorrow is another day!",
+    "quote_spa": "¡Después de todo, mañana es otro día!",
+    "movie": "Gone with the Wind (1939)",
+    "movie_spa": "Lo que el viento se llevó (1939)",
+    "character": "Scarlett O'Hara",
+    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm4288315904/"
+  },
+  {
+    "quote": "Frankly, my dear, I don’t give a damn.",
+    "quote_spa": "Francamente, querida, me importa un comino.",
+    "movie": "Gone with the Wind (1939)",
+    "movie_spa": "Lo que el viento se llevó (1939)",
+    "character": "Rhett Butler",
+    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm1172976128/"
+  },
+  {
+    "quote": "The flower that blooms in adversity is the most rare and beautiful of all.",
+    "quote_spa": "La flor que florece en la adversidad es la más rara y hermosa de todas.",
+    "movie": "Mulan (1998)",
+    "movie_spa": "Mulan (1998)",
+    "character": "The Emperor",
+    "image_link": "https://www.imdb.com/title/tt0120762/mediaviewer/rm1715283456/"
+  },
+  {
+    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "quote_spa": "Carpe diem. Aprovechen el día, muchachos. Hagan que sus vidas sean extraordinarias.",
+    "movie": "Dead Poets Society (1989)",
+    "movie_spa": "La sociedad de los poetas muertos (1989)",
+    "character": "John Keating",
+    "image_link": "https://www.imdb.com/title/tt0097165/mediaviewer/rm1647325952/"
+  },
+  {
+    "quote": "Just keep swimming.",
+    "quote_spa": "Sólo sigue nadando.",
+    "movie": "Finding Nemo (2003)",
+    "movie_spa": "Buscando a Nemo (2003)",
+    "character": "Dory",
+    "image_link": "https://www.imdb.com/title/tt0266543/mediaviewer/rm4217780224/"
+  },
+  {
+    "quote": "To infinity and beyond!",
+    "quote_spa": "¡Hasta el infinito y más allá!",
+    "movie": "Toy Story (1995)",
+    "movie_spa": "Toy Story (1995)",
+    "character": "Buzz Lightyear",
+    "image_link": "https://www.imdb.com/title/tt0114709/mediaviewer/rm1911000832/"
+  },
+  {
+    "quote": "You have to do the best with what God gave you.",
+    "quote_spa": "Tienes que hacer lo mejor con lo que Dios te dio.",
+    "movie": "Forrest Gump (1994)",
+    "movie_spa": "Forrest Gump (1994)",
+    "character": "Forrest Gump",
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+  },
+  {
+    "quote": "I’m the king of the world!",
+    "quote_spa": "¡Soy el rey del mundo!",
+    "movie": "Titanic (1997)",
+    "movie_spa": "Titanic (1997)",
+    "character": "Jack Dawson",
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+  },
+  {
+    "quote": "Every man has his breaking point.",
+    "quote_spa": "Todo hombre tiene su punto de quiebre.",
+    "movie": "A Few Good Men (1992)",
+    "movie_spa": "Algunos hombres buenos (1992)",
+    "character": "Col. Jessep",
+    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002262784/"
+  },
+  {
+    "quote": "I’m going to make him an offer he can’t refuse.",
+    "quote_spa": "Le haré una oferta que no podrá rechazar.",
+    "movie": "The Godfather (1972)",
+    "movie_spa": "El padrino (1972)",
+    "character": "Vito Corleone",
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+  },
+  {
+    "quote": "You can’t handle the truth!",
+    "quote_spa": "¡No puedes manejar la verdad!",
+    "movie": "A Few Good Men (1992)",
+    "movie_spa": "Algunos hombres buenos (1992)",
+    "character": "Col. Jessep",
+    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002297600/"
+  },
+  {
+    "quote": "The stuff that dreams are made of.",
+    "quote_spa": "El material del que están hechos los sueños.",
+    "movie": "The Maltese Falcon (1941)",
+    "movie_spa": "El halcón maltés (1941)",
+    "character": "Sam Spade",
+    "image_link": "https://www.imdb.com/title/tt0033870/mediaviewer/rm2373532928/"
+  },
+  {
+    "quote": "I wish I knew how to quit you.",
+    "quote_spa": "Ojalá supiera cómo dejarte.",
+    "movie": "Brokeback Mountain (2005)",
+    "movie_spa": "Secreto en la montaña (2005)",
+    "character": "Ennis Del Mar",
+    "image_link": "https://www.imdb.com/title/tt0388795/mediaviewer/rm1417879296/"
+  },
+  {
+    "quote": "It’s supposed to be hard. If it wasn’t hard, everyone would do it. The hard... is what makes it great.",
+    "quote_spa": "Se supone que debe ser difícil. Si no fuera difícil, todo el mundo lo haría. Lo difícil... es lo que lo hace grandioso.",
+    "movie": "A League of Their Own (1992)",
+    "movie_spa": "Ellas dan el golpe (1992)",
+    "character": "Jimmy Dugan",
+    "image_link": "https://www.imdb.com/title/tt0104694/mediaviewer/rm258599040/"
+  },
+  {
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "quote_spa": "Justo cuando pensé que estaba fuera, me vuelven a meter.",
+    "movie": "The Godfather: Part III (1990)",
+    "movie_spa": "El padrino III (1990)",
+    "character": "Michael Corleone",
+    "image_link": "https://www.imdb.com/title/tt0099674/mediaviewer/rm2517260288/"
+  },
+  {
+    "quote": "You’re gonna need a bigger boat.",
+    "quote_spa": "Vas a necesitar un barco más grande.",
+    "movie": "Jaws (1975)",
+    "movie_spa": "Tiburón (1975)",
+    "character": "Martin Brody",
+    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/"
+  },
+  {
+    "quote": "I’m mad as hell, and I’m not going to take this anymore!",
+    "quote_spa": "¡Estoy furioso y no voy a soportar esto más!",
+    "movie": "Network (1976)",
+    "movie_spa": "Red de mentiras (1976)",
+    "character": "Howard Beale",
+    "image_link": "https://www.imdb.com/title/tt0074958/mediaviewer/rm2712411136/"
+  },
+  {
+    "quote": "Say hello to my little friend!",
+    "quote_spa": "¡Saluda a mi pequeño amigo!",
+    "movie": "Scarface (1983)",
+    "movie_spa": "Caracortada (1983)",
+    "character": "Tony Montana",
+    "image_link": "https://www.imdb.com/title/tt0086250/mediaviewer/rm4097262080/"
+  },
+  {
+    "quote": "Why so serious?",
+    "quote_spa": "¿Por qué tan serio?",
+    "movie": "The Dark Knight (2008)",
+    "movie_spa": "El caballero de la noche (2008)",
+    "character": "The Joker",
+    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/"
+  },
+  {
+    "quote": "I see dead people.",
+    "quote_spa": "Veo gente muerta.",
+    "movie": "The Sixth Sense (1999)",
+    "movie_spa": "El sexto sentido (1999)",
+    "character": "Cole Sear",
+    "image_link": "https://www.imdb.com/title/tt0167404/mediaviewer/rm2123136000/"
+  },
+  {
+    "quote": "Life finds a way.",
+    "quote_spa": "La vida se abre camino.",
+    "movie": "Jurassic Park (1993)",
+    "movie_spa": "Parque Jurásico (1993)",
+    "character": "Dr. Ian Malcolm",
+    "image_link": "https://www.imdb.com/title/tt0107290/mediaviewer/rm1695739392/"
+  },
+  {
+    "quote": "Keep your friends close, but your enemies closer.",
+    "quote_spa": "Mantén a tus amigos cerca, y a tus enemigos más cerca.",
+    "movie": "The Godfather: Part II (1974)",
+    "movie_spa": "El padrino: Parte II (1974)",
+    "character": "Michael Corleone",
+    "image_link": "https://www.imdb.com/title/tt0071562/mediaviewer/rm1938989312/"
+  },
+  {
+    "quote": "Houston, we have a problem.",
+    "quote_spa": "Houston, tenemos un problema.",
+    "movie": "Apollo 13 (1995)",
+    "movie_spa": "Apolo 13 (1995)",
+    "character": "Jim Lovell",
+    "image_link": "https://www.imdb.com/title/tt0112384/mediaviewer/rm3106417920/"
+  },
+  {
+    "quote": "What we do in life echoes in eternity.",
+    "quote_spa": "Lo que hacemos en la vida tiene su eco en la eternidad.",
+    "movie": "Gladiator (2000)",
+    "movie_spa": "Gladiador (2000)",
+    "character": "Maximus",
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm1679584768/"
+  },
+  {
+    "quote": "Love means never having to say you're sorry.",
+    "quote_spa": "Amar significa no tener que decir nunca lo siento.",
+    "movie": "Love Story (1970)",
+    "movie_spa": "Historia de amor (1970)",
+    "character": "Jennifer Cavalleri",
+    "image_link": "https://www.imdb.com/title/tt0066011/mediaviewer/rm3371515392/"
+  },
+  {
+    "quote": "You is kind. You is smart. You is important.",
+    "quote_spa": "Eres amable. Eres inteligente. Eres importante.",
+    "movie": "The Help (2011)",
+    "movie_spa": "Historias cruzadas (2011)",
+    "character": "Aibileen Clark",
+    "image_link": "https://www.imdb.com/title/tt1454029/mediaviewer/rm1920328192/"
+  },
+  {
+    "quote": "Even the darkest night will end and the sun will rise.",
+    "quote_spa": "Incluso la noche más oscura terminará y el sol saldrá.",
+    "movie": "Les Misérables (2012)",
+    "movie_spa": "Los miserables (2012)",
+    "character": "Jean Valjean",
+    "image_link": "https://www.imdb.com/title/tt1707386/mediaviewer/rm1344436480/"
+  },
+  {
+    "quote": "To me, you are perfect.",
+    "quote_spa": "Para mí, eres perfecta.",
+    "movie": "Love Actually (2003)",
+    "movie_spa": "Realmente amor (2003)",
+    "character": "Mark",
+    "image_link": "https://www.imdb.com/title/tt0314331/mediaviewer/rm4126147584/"
+  },
+  {
+    "quote": "There’s no shame in being afraid. What matters is how we face it.",
+    "quote_spa": "No hay vergüenza en tener miedo. Lo que importa es cómo lo enfrentamos.",
+    "movie": "The Walking Dead (TV)",
+    "movie_spa": "The Walking Dead (TV)",
+    "character": "Rick Grimes",
+    "image_link": "https://www.imdb.com/title/tt1520211/mediaviewer/rm2908231168/"
+  },
+  {
+    "quote": "It’s what you do right now that makes a difference.",
+    "quote_spa": "Es lo que haces ahora lo que marca la diferencia.",
+    "movie": "Black Hawk Down (2001)",
+    "movie_spa": "La caída del halcón negro (2001)",
+    "character": "Norm 'Hoot' Hooten",
+    "image_link": "https://www.imdb.com/title/tt0265086/mediaviewer/rm3065562624/"
+  },
+  {
+    "quote": "Fear is not real. It is the product of thoughts you create.",
+    "quote_spa": "El miedo no es real. Es el producto de los pensamientos que tú creas.",
+    "movie": "After Earth (2013)",
+    "movie_spa": "Después de la Tierra (2013)",
+    "character": "Cypher Raige",
+    "image_link": "https://www.imdb.com/title/tt1815862/mediaviewer/rm2246105600/"
+  },
+  {
+    "quote": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
+    "quote_spa": "No dejes que nadie te haga sentir que no mereces lo que quieres.",
+    "movie": "10 Things I Hate About You (1999)",
+    "movie_spa": "10 cosas que odio de ti (1999)",
+    "character": "Patrick Verona",
+    "image_link": "https://www.imdb.com/title/tt0147800/mediaviewer/rm3711441152/"
+  },
+  {
+    "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "quote_spa": "La felicidad se puede hallar incluso en los momentos más oscuros, si somos capaces de usar bien la luz.",
+    "movie": "Harry Potter and the Prisoner of Azkaban (2004)",
+    "movie_spa": "Harry Potter y el prisionero de Azkaban (2004)",
+    "character": "Albus Dumbledore",
+    "image_link": "https://www.imdb.com/title/tt0304141/mediaviewer/rm311528704/"
+  },
+  {
+    "quote": "You get what you settle for.",
+    "quote_spa": "Obtienes lo que te conformas.",
+    "movie": "Thelma & Louise (1991)",
+    "movie_spa": "Thelma & Louise (1991)",
+    "character": "Louise",
+    "image_link": "https://www.imdb.com/title/tt0103074/mediaviewer/rm2049906944/"
+  },
+  {
+    "quote": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+    "quote_spa": "El coraje no es la ausencia de miedo, sino el juicio de que algo más es más importante que el miedo.",
+    "movie": "The Princess Diaries (2001)",
+    "movie_spa": "El diario de la princesa (2001)",
+    "character": "Joe",
+    "image_link": "https://www.imdb.com/title/tt0247638/mediaviewer/rm1593880576/"
+  },
+  {
+    "quote": "You’re only given a little spark of madness. You mustn’t lose it.",
+    "quote_spa": "Solo se te da una chispa de locura. No debes perderla.",
+    "movie": "Robin Williams: Live on Broadway (2002)",
+    "movie_spa": "Robin Williams: Live on Broadway (2002)",
+    "character": "Robin Williams",
+    "image_link": "https://www.imdb.com/title/tt0338526/mediaviewer/rm3579970560/"
+  },
+  {
+    "quote": "It’s not until you lose everything that you can truly appreciate everything.",
+    "quote_spa": "No es hasta que lo pierdes todo que puedes realmente apreciar todo.",
+    "movie": "Beauty and the Beast (2017)",
+    "movie_spa": "La bella y la bestia (2017)",
+    "character": "Beast",
+    "image_link": "https://www.imdb.com/title/tt2771200/mediaviewer/rm3761329152/"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "quote_spa": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar.",
+    "movie": "Darkest Hour (2017)",
+    "movie_spa": "Las horas más oscuras (2017)",
+    "character": "Winston Churchill",
+    "image_link": "https://www.imdb.com/title/tt4555426/mediaviewer/rm2165468672/"
+  },
+  {
+    "quote": "Don’t let the fear of striking out keep you from playing the game.",
+    "quote_spa": "No dejes que el miedo a poncharte te impida jugar el juego.",
+    "movie": "A Cinderella Story (2004)",
+    "movie_spa": "Una cenicienta moderna (2004)",
+    "character": "Sam",
+    "image_link": "https://www.imdb.com/title/tt0356470/mediaviewer/rm2966706176/"
+  },
+  {
+    "quote": "Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.",
+    "quote_spa": "A veces, son las personas que nadie imagina capaces de nada, quienes logran lo que nadie puede imaginar.",
+    "movie": "The Imitation Game (2014)",
+    "movie_spa": "El código enigma (2014)",
+    "character": "Alan Turing",
+    "image_link": "https://www.imdb.com/title/tt2084970/mediaviewer/rm3377921536/"
+  },
+  {
+    "quote": "It’s only impossible until it’s done.",
+    "quote_spa": "Solo es imposible hasta que se hace.",
+    "movie": "Mandela: Long Walk to Freedom (2013)",
+    "movie_spa": "Mandela: Del mito al hombre (2013)",
+    "character": "Nelson Mandela",
+    "image_link": "https://www.imdb.com/title/tt2304771/mediaviewer/rm3321684992/"
+  },
+  {
+    "quote": "All we have to decide is what to do with the time that is given to us.",
+    "quote_spa": "Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos da.",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "movie_spa": "El señor de los anillos: La comunidad del anillo (2001)",
+    "character": "Gandalf",
+    "image_link": "https://www.imdb.com/title/tt0120737/mediaviewer/rm2278988288/"
+  },
+  {
+    "quote": "It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward.",
+    "quote_spa": "No se trata de qué tan fuerte golpeas, sino de qué tan fuerte puedes recibir un golpe y seguir adelante.",
+    "movie": "Rocky Balboa (2006)",
+    "movie_spa": "Rocky Balboa (2006)",
+    "character": "Rocky",
+    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/"
+  },
+  {
+    "quote": "Fear can hold you prisoner. Hope can set you free.",
+    "quote_spa": "El miedo puede mantenerte prisionero. La esperanza puede liberarte.",
+    "movie": "The Shawshank Redemption (1994)",
+    "movie_spa": "Cadena perpetua (1994)",
+    "character": "Andy Dufresne",
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+  },
+  {
+    "quote": "I have to remind myself that some birds aren’t meant to be caged. Their feathers are just too bright.",
+    "quote_spa": "Tengo que recordarme que algunas aves no están hechas para estar enjauladas. Sus plumas son demasiado brillantes.",
+    "movie": "The Shawshank Redemption (1994)",
+    "movie_spa": "Cadena perpetua (1994)",
+    "character": "Red",
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+  },
+  {
+    "quote": "Life was like a box of chocolates. You never know what you're gonna get.",
+    "quote_spa": "La vida era como una caja de bombones. Nunca sabes lo que te va a tocar.",
+    "movie": "Forrest Gump (1994)",
+    "movie_spa": "Forrest Gump (1994)",
+    "character": "Forrest Gump",
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+  },
+  {
+    "quote": "Stupid is as stupid does.",
+    "quote_spa": "Tonto es el que hace tonterías.",
+    "movie": "Forrest Gump (1994)",
+    "movie_spa": "Forrest Gump (1994)",
+    "character": "Forrest Gump",
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+  },
+  {
+    "quote": "A man who doesn't spend time with his family can never be a real man.",
+    "quote_spa": "Un hombre que no dedica tiempo a su familia nunca puede ser un hombre de verdad.",
+    "movie": "The Godfather (1972)",
+    "movie_spa": "El padrino (1972)",
+    "character": "Vito Corleone",
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+  },
+  {
+    "quote": "Leave the gun. Take the cannoli.",
+    "quote_spa": "Deja el arma. Llévate los cannoli.",
+    "movie": "The Godfather (1972)",
+    "movie_spa": "El padrino (1972)",
+    "character": "Peter Clemenza",
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+  },
+  {
+    "quote": "No. I am your father.",
+    "quote_spa": "No. Yo soy tu padre.",
+    "movie": "Star Wars: The Empire Strikes Back (1980)",
+    "movie_spa": "Star Wars: Episodio V - El Imperio Contraataca (1980)",
+    "character": "Darth Vader",
+    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/"
+  },
+  {
+    "quote": "Are you not entertained?",
+    "quote_spa": "¿No estáis entretenidos?",
+    "movie": "Gladiator (2000)",
+    "movie_spa": "Gladiador (2000)",
+    "character": "Maximus",
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+  },
+  {
+    "quote": "Strength and honor.",
+    "quote_spa": "Fuerza y honor.",
+    "movie": "Gladiator (2000)",
+    "movie_spa": "Gladiador (2000)",
+    "character": "Maximus",
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+  },
+  {
+    "quote": "A woman's heart is a deep ocean of secrets.",
+    "quote_spa": "El corazón de una mujer es un profundo océano de secretos.",
+    "movie": "Titanic (1997)",
+    "movie_spa": "Titanic (1997)",
+    "character": "Rose DeWitt Bukater",
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+  },
+  {
+    "quote": "I'll never let go, Jack. I'll never let go.",
+    "quote_spa": "Nunca te soltaré, Jack. Nunca te soltaré.",
+    "movie": "Titanic (1997)",
+    "movie_spa": "Titanic (1997)",
+    "character": "Rose DeWitt Bukater",
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+  },
+  {
+    "quote": "Some men just want to watch the world burn.",
+    "quote_spa": "Algunos hombres solo quieren ver el mundo arder.",
+    "movie": "The Dark Knight (2008)",
+    "movie_spa": "El caballero de la noche (2008)",
+    "character": "Alfred Pennyworth",
+    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/"
+  },
+  {
+    "quote": "We're gonna need a bigger boat.",
+    "quote_spa": "Vamos a necesitar un barco más grande.",
+    "movie": "Jaws (1975)",
+    "movie_spa": "Tiburón (1975)",
+    "character": "Martin Brody",
+    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/"
+  },
+  {
+    "quote": "They may take our lives, but they'll never take our freedom!",
+    "quote_spa": "Pueden quitarnos la vida, ¡pero jamás nos quitarán la libertad!",
+    "movie": "Braveheart (1995)",
+    "movie_spa": "Corazón valiente (1995)",
+    "character": "William Wallace",
+    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/"
+  },
+  {
+    "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+    "quote_spa": "Toto, tengo la sensación de que ya no estamos en Kansas.",
+    "movie": "The Wizard of Oz (1939)",
+    "movie_spa": "El mago de Oz (1939)",
+    "character": "Dorothy Gale",
+    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/"
+  },
+  {
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "quote_spa": "La esperanza es algo bueno, tal vez lo mejor de todo, y las cosas buenas no mueren.",
+    "movie": "The Shawshank Redemption",
+    "movie_spa": "Sueños de libertad",
+    "character": "Andy Dufresne",
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+  },
+  {
+    "quote": "Do, or do not. There is no try.",
+    "quote_spa": "Hazlo o no lo hagas, pero no lo intentes.",
+    "movie": "Star Wars: Episode V - The Empire Strikes Back",
+    "movie_spa": "La guerra de las galaxias: Episodio V - El imperio contraataca",
+    "character": "Yoda",
+    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm311108352/"
+  },
+  {
+    "quote": "It's not who I am underneath, but what I do that defines me.",
+    "quote_spa": "No es lo que soy por dentro, sino lo que hago, lo que me define.",
+    "movie": "Batman Begins",
+    "movie_spa": "Batman Inicia",
+    "character": "Batman",
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1421398528/"
+  },
+  {
+    "quote": "Just keep swimming.",
+    "quote_spa": "Sigue nadando.",
+    "movie": "Finding Nemo",
+    "movie_spa": "Buscando a Nemo",
+    "character": "Dory",
+    "image_link": "https://www.imdb.com/title/tt0266543/mediaviewer/rm2731236352/"
+  },
+  {
+    "quote": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+    "quote_spa": "La vida se mueve muy rápido. Si no te detienes a mirar de vez en cuando, podrías perdértela.",
+    "movie": "Ferris Bueller's Day Off",
+    "movie_spa": "Un experto en diversión",
+    "character": "Ferris Bueller",
+    "image_link": "https://www.imdb.com/title/tt0091042/mediaviewer/rm207470592/"
+  },
+  {
+    "quote": "After a while, you learn to ignore the names people call you and just trust who you are.",
+    "quote_spa": "Con el tiempo, aprendes a ignorar los nombres que te llaman y simplemente confías en quién eres.",
+    "movie": "Shrek",
+    "movie_spa": "Shrek",
+    "character": "Shrek",
+    "image_link": "https://www.imdb.com/title/tt0126029/mediaviewer/rm2513891840/"
+  },
+  {
+    "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "quote_spa": "La felicidad se puede encontrar hasta en los momentos más oscuros, si somos capaces de usar bien la luz.",
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "movie_spa": "Harry Potter y el prisionero de Azkaban",
+    "character": "Albus Dumbledore",
+    "image_link": "https://www.imdb.com/title/tt0304141/mediaviewer/rm2951842048/"
+  },
+  {
+    "quote": "To infinity... and beyond!",
+    "quote_spa": "¡Hasta el infinito y más allá!",
+    "movie": "Toy Story",
+    "movie_spa": "Toy Story",
+    "character": "Buzz Lightyear",
+    "image_link": "https://www.imdb.com/title/tt0114709/mediaviewer/rm2321468928/"
+  },
+  {
+    "quote": "Why do we fall, sir? So that we can learn to pick ourselves up.",
+    "quote_spa": "¿Por qué caemos, señor? Para poder aprender a levantarnos.",
+    "movie": "Batman Begins",
+    "movie_spa": "Batman Inicia",
+    "character": "Alfred Pennyworth",
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1421398528/"
+  },
+  {
+    "quote": "All we have to decide is what to do with the time that is given to us.",
+    "quote_spa": "Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "movie_spa": "El señor de los anillos: La comunidad del anillo",
+    "character": "Gandalf",
+    "image_link": "https://www.imdb.com/title/tt0120737/mediaviewer/rm3592954880/"
+  },
+  {
+    "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
+    "quote_spa": "Solo después de haberlo perdido todo somos libres para hacer cualquier cosa.",
+    "movie": "Fight Club",
+    "movie_spa": "El club de la pelea",
+    "character": "Tyler Durden",
+    "image_link": "https://www.imdb.com/title/tt0137523/mediaviewer/rm4266230784/"
+  },
+  {
+    "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
+    "quote_spa": "Oh sí, el pasado puede doler. Pero puedes huir de él, o aprender.",
+    "movie": "The Lion King",
+    "movie_spa": "El rey león",
+    "character": "Rafiki",
+    "image_link": "https://www.imdb.com/title/tt0110357/mediaviewer/rm3773881856/"
+  },
+  {
+    "quote": "You is kind. You is smart. You is important.",
+    "quote_spa": "Eres amable. Eres inteligente. Eres importante.",
+    "movie": "The Help",
+    "movie_spa": "Historias cruzadas",
+    "character": "Aibileen Clark",
+    "image_link": "https://www.imdb.com/title/tt1454029/mediaviewer/rm3140092928/"
+  },
+  {
+    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "quote_spa": "Carpe diem. Aprovechad el día, chicos. Haced que vuestras vidas sean extraordinarias.",
+    "movie": "Dead Poets Society",
+    "movie_spa": "La sociedad de los poetas muertos",
+    "character": "John Keating",
+    "image_link": "https://www.imdb.com/title/tt0097165/mediaviewer/rm260149632/"
+  },
+  {
+    "quote": "You have to do everything you can, and if you stay positive, you have a shot at a silver lining.",
+    "quote_spa": "Tienes que hacer todo lo que puedas, y si te mantienes positivo, tienes una oportunidad para el lado bueno.",
+    "movie": "Silver Linings Playbook",
+    "movie_spa": "Los juegos del destino",
+    "character": "Pat Solitano",
+    "image_link": "https://www.imdb.com/title/tt1045658/mediaviewer/rm2043470336/"
+  }
+]
