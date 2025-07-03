@@ -28,8 +28,7 @@ quoteBtn.addEventListener("click", () => {
 
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   const imdbUrl = randomQuote.image_link || "";
-  loadPosterImage(randomQuote.image_link); // Now we call a function instead of the line below
-  //const imdbIdMatch = imdbUrl.match(/(tt\d{7,})/); // Extract IMDb ID
+  loadPosterImage(randomQuote.image_link); // Now we call a function
 
   if (isSpanish) {
     const quote = randomQuote.quote_spa?.trim() || randomQuote.quote?.trim() || "[Frase no disponible]";
@@ -46,38 +45,12 @@ quoteBtn.addEventListener("click", () => {
     quoteTextElem.textContent = `"${quote}"`;
     quoteInfoElem.innerHTML = `– ${character}, <strong>${movie}</strong>`;
   }
-
-  /*if (imdbIdMatch) {
-    const imdbId = imdbIdMatch[1];
-    const posterUrl = `https://img.omdbapi.com/?i=${imdbId}&h=600&apikey=ed963bb7`;
-
-    // Show spinner, hide image while loading
-    imageLoader.style.display = "block";
-    imdbImageElem.style.display = "none";
-
-    imdbImageElem.onload = () => {
-      imageLoader.style.display = "none";
-      imdbImageElem.style.display = "block";
-    };
-
-    imdbImageElem.onerror = () => {
-      imageLoader.style.display = "none";
-      imdbImageElem.style.display = "none";
-    };
-
-    imdbImageElem.src = posterUrl;
-    imdbImageElem.style.display = "block";
-    imdbLink.href = imdbUrl;
-  } else {
-    imdbImageElem.style.display = "none";
-    imdbLink.href = "#";
-  }*/
 });
 
 langToggle.addEventListener("click", () => {
   isSpanish = !isSpanish;
   langToggle.setAttribute("aria-pressed", isSpanish);
-  langToggle.textContent = isSpanish ? "In English" : "En español";
+  langToggle.textContent = isSpanish ? "In English" : "En Español";
   quoteBtn.textContent = isSpanish ? "¡Muéstrame una frase!" : "Show Me a Quote";
 
   quoteTextElem.textContent = "";
