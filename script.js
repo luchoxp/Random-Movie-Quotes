@@ -14,6 +14,7 @@ const quoteBtn = document.getElementById("quoteBtn");
 const langToggle = document.getElementById("langToggle");
 const quoteTextElem = document.getElementById("quoteText");
 const quoteInfoElem = document.getElementById("quoteInfo");
+const imageLoader = document.getElementById("imageLoader");
 
 const imdbImageElem = document.createElement("img");
 imdbImageElem.id = "imdbImage";
@@ -27,7 +28,8 @@ quoteBtn.addEventListener("click", () => {
 
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   const imdbUrl = randomQuote.image_link || "";
-  const imdbIdMatch = imdbUrl.match(/(tt\d{7,})/); // Extract IMDb ID
+  loadPosterImage(randomQuote.image_link); // Now we call a function instead of the line below
+  //const imdbIdMatch = imdbUrl.match(/(tt\d{7,})/); // Extract IMDb ID
 
   if (isSpanish) {
     const quote = randomQuote.quote_spa?.trim() || randomQuote.quote?.trim() || "[Frase no disponible]";
@@ -45,9 +47,23 @@ quoteBtn.addEventListener("click", () => {
     quoteInfoElem.innerHTML = `– ${character}, <strong>${movie}</strong>`;
   }
 
-  if (imdbIdMatch) {
+  /*if (imdbIdMatch) {
     const imdbId = imdbIdMatch[1];
     const posterUrl = `https://img.omdbapi.com/?i=${imdbId}&h=600&apikey=ed963bb7`;
+
+    // Show spinner, hide image while loading
+    imageLoader.style.display = "block";
+    imdbImageElem.style.display = "none";
+
+    imdbImageElem.onload = () => {
+      imageLoader.style.display = "none";
+      imdbImageElem.style.display = "block";
+    };
+
+    imdbImageElem.onerror = () => {
+      imageLoader.style.display = "none";
+      imdbImageElem.style.display = "none";
+    };
 
     imdbImageElem.src = posterUrl;
     imdbImageElem.style.display = "block";
@@ -55,7 +71,7 @@ quoteBtn.addEventListener("click", () => {
   } else {
     imdbImageElem.style.display = "none";
     imdbLink.href = "#";
-  }
+  }*/
 });
 
 langToggle.addEventListener("click", () => {
@@ -119,5 +135,30 @@ document.getElementById("shareImageBtn").addEventListener("click", () => {
   shareImage();
 });
 
+function loadPosterImage(imdbUrl) {
+  const imdbIdMatch = imdbUrl.match(/(tt\d{7,})/);
+  if (!imdbIdMatch) {
+    imdbImageElem.style.display = "none";
+    imageLoader.style.display = "none";
+    return;
+  }
 
+  const imdbId = imdbIdMatch[1];
+  const posterUrl = `https://img.omdbapi.com/?i=${imdbId}&h=600&apikey=ed963bb7`;
 
+  // Show spinner, hide image while loading
+  imageLoader.style.display = "block";
+  imdbImageElem.style.display = "none";
+
+  imdbImageElem.onload = () => {
+    imageLoader.style.display = "none";
+    imdbImageElem.style.display = "block";
+  };
+
+  imdbImageElem.onerror = () => {
+    imageLoader.style.display = "none";
+    imdbImageElem.style.display = "none";
+  };
+
+  imdbImageElem.src = posterUrl;
+}
