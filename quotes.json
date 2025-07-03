@@ -5,7 +5,8 @@
     "movie": "The Shawshank Redemption (1994)",
     "movie_spa": "Cadena perpetua (1994)",
     "character": "Andy Dufresne",
-    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/",
+    "number": 1
   },
   {
     "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
@@ -13,15 +14,17 @@
     "movie": "The Shawshank Redemption (1994)",
     "movie_spa": "Cadena perpetua (1994)",
     "character": "Andy Dufresne",
-    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm2108642304/"
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm2108642304/",
+    "number": 2
   },
   {
     "quote": "Don’t ever let somebody tell you you can’t do something. Not even me. You got a dream, you gotta protect it. If you want something, go get it. Period.",
     "quote_spa": "Nunca dejes que nadie te diga que no puedes hacer algo, ni siquiera yo. Si tienes un sueño, tienes que protegerlo. Si quieres algo, ve y consíguelo. Punto.",
-    "movie": "The Pursuit of Happyness (2006)",
+    "movie": "The Pursuit of Happiness (2006)",
     "movie_spa": "En busca de la felicidad (2006)",
     "character": "Chris Gardner",
-    "image_link": "https://www.imdb.com/title/tt0454921/mediaviewer/rm4166675456/"
+    "image_link": "https://www.imdb.com/title/tt0454921/mediaviewer/rm4166675456/",
+    "number": 3
   },
   {
     "quote": "It’s not who we are underneath, but what we do that defines us.",
@@ -29,7 +32,8 @@
     "movie": "Batman Begins (2005)",
     "movie_spa": "Batman inicia (2005)",
     "character": "Bruce Wayne / Batman",
-    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1078390272/"
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1078390272/",
+    "number": 4
   },
   {
     "quote": "Why do we fall, sir? So that we can learn to pick ourselves up.",
@@ -37,7 +41,8 @@
     "movie": "Batman Begins (2005)",
     "movie_spa": "Batman inicia (2005)",
     "character": "Alfred Pennyworth",
-    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm2240422912/"
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm2240422912/",
+    "number": 5
   },
   {
     "quote": "It is not our abilities that show what we truly are… it is our choices.",
@@ -45,7 +50,8 @@
     "movie": "Harry Potter and the Chamber of Secrets (2002)",
     "movie_spa": "Harry Potter y la cámara secreta (2002)",
     "character": "Albus Dumbledore",
-    "image_link": "https://www.imdb.com/title/tt0295297/mediaviewer/rm3816584448/"
+    "image_link": "https://www.imdb.com/title/tt0295297/mediaviewer/rm3816584448/",
+    "number": 6
   },
   {
     "quote": "Let me tell you something you already know. The world ain’t all sunshine and rainbows… it’s about how hard you can get hit and keep moving forward.",
@@ -53,7 +59,8 @@
     "movie": "Rocky Balboa (2006)",
     "movie_spa": "Rocky Balboa (2006)",
     "character": "Rocky Balboa",
-    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/"
+    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/",
+    "number": 7
   },
   {
     "quote": "The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it.",
@@ -61,7 +68,8 @@
     "movie": "The Wolf of Wall Street (2013)",
     "movie_spa": "El lobo de Wall Street (2013)",
     "character": "Jordan Belfort",
-    "image_link": "https://www.imdb.com/title/tt0993846/mediaviewer/rm1559367424/"
+    "image_link": "https://www.imdb.com/title/tt0993846/mediaviewer/rm1559367424/",
+    "number": 8
   },
   {
     "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
@@ -69,7 +77,8 @@
     "movie": "Invictus (2009)",
     "movie_spa": "Invictus (2009)",
     "character": "Nelson Mandela",
-    "image_link": "https://www.imdb.com/title/tt1057500/mediaviewer/rm1126240512/"
+    "image_link": "https://www.imdb.com/title/tt1057500/mediaviewer/rm1126240512/",
+    "number": 9
   },
   {
     "quote": "There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do and succeed at. While there's life, there is hope.",
@@ -77,7 +86,8 @@
     "movie": "The Theory of Everything (2014)",
     "movie_spa": "La teoría del todo (2014)",
     "character": "Stephen Hawking",
-    "image_link": "https://www.imdb.com/title/tt2980516/mediaviewer/rm105637760/"
+    "image_link": "https://www.imdb.com/title/tt2980516/mediaviewer/rm105637760/",
+    "number": 10
   },
   {
     "quote": "Do or do not. There is no try.",
@@ -85,15 +95,8 @@
     "movie": "Star Wars: The Empire Strikes Back (1980)",
     "movie_spa": "Star Wars: Episodio V - El Imperio Contraataca (1980)",
     "character": "Yoda",
-    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/"
-  },
-  {
-    "quote": "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
-    "quote_spa": "La vida se mueve muy rápido. Si no te detienes y miras a tu alrededor de vez en cuando, puedes perdértela.",
-    "movie": "Ferris Bueller’s Day Off (1986)",
-    "movie_spa": "Todo en un día (1986)",
-    "character": "Ferris Bueller",
-    "image_link": "https://www.imdb.com/title/tt0091042/mediaviewer/rm1710406656/"
+    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/",
+    "number": 11
   },
   {
     "quote": "Sometimes the right path is not the easiest one.",
@@ -101,7 +104,8 @@
     "movie": "Pocahontas (1995)",
     "movie_spa": "Pocahontas (1995)",
     "character": "Grandmother Willow",
-    "image_link": "https://www.imdb.com/title/tt0114148/mediaviewer/rm2627606016/"
+    "image_link": "https://www.imdb.com/title/tt0114148/mediaviewer/rm2627606016/",
+    "number": 12
   },
   {
     "quote": "Nothing happens to anyone that he is not fitted by nature to bear.",
@@ -109,7 +113,8 @@
     "movie": "Gladiator (2000)",
     "movie_spa": "Gladiador (2000)",
     "character": "Maximus",
-    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/",
+    "number": 13
   },
   {
     "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
@@ -117,7 +122,8 @@
     "movie": "Fight Club (1999)",
     "movie_spa": "El club de la pelea (1999)",
     "character": "Tyler Durden",
-    "image_link": "https://www.imdb.com/title/tt0137523/mediaviewer/rm4261350912/"
+    "image_link": "https://www.imdb.com/title/tt0137523/mediaviewer/rm4261350912/",
+    "number": 14
   },
   {
     "quote": "Every man dies, but not every man really lives.",
@@ -125,7 +131,8 @@
     "movie": "Braveheart (1995)",
     "movie_spa": "Corazón valiente (1995)",
     "character": "William Wallace",
-    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/"
+    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/",
+    "number": 15
   },
   {
     "quote": "There’s no place like home.",
@@ -133,7 +140,8 @@
     "movie": "The Wizard of Oz (1939)",
     "movie_spa": "El mago de Oz (1939)",
     "character": "Dorothy Gale",
-    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/"
+    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/",
+    "number": 16
   },
   {
     "quote": "After all, tomorrow is another day!",
@@ -141,7 +149,8 @@
     "movie": "Gone with the Wind (1939)",
     "movie_spa": "Lo que el viento se llevó (1939)",
     "character": "Scarlett O'Hara",
-    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm4288315904/"
+    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm4288315904/",
+    "number": 17
   },
   {
     "quote": "Frankly, my dear, I don’t give a damn.",
@@ -149,7 +158,8 @@
     "movie": "Gone with the Wind (1939)",
     "movie_spa": "Lo que el viento se llevó (1939)",
     "character": "Rhett Butler",
-    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm1172976128/"
+    "image_link": "https://www.imdb.com/title/tt0031381/mediaviewer/rm1172976128/",
+    "number": 18
   },
   {
     "quote": "The flower that blooms in adversity is the most rare and beautiful of all.",
@@ -157,7 +167,8 @@
     "movie": "Mulan (1998)",
     "movie_spa": "Mulan (1998)",
     "character": "The Emperor",
-    "image_link": "https://www.imdb.com/title/tt0120762/mediaviewer/rm1715283456/"
+    "image_link": "https://www.imdb.com/title/tt0120762/mediaviewer/rm1715283456/",
+    "number": 19
   },
   {
     "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
@@ -165,7 +176,8 @@
     "movie": "Dead Poets Society (1989)",
     "movie_spa": "La sociedad de los poetas muertos (1989)",
     "character": "John Keating",
-    "image_link": "https://www.imdb.com/title/tt0097165/mediaviewer/rm1647325952/"
+    "image_link": "https://www.imdb.com/title/tt0097165/mediaviewer/rm1647325952/",
+    "number": 20
   },
   {
     "quote": "Just keep swimming.",
@@ -173,7 +185,8 @@
     "movie": "Finding Nemo (2003)",
     "movie_spa": "Buscando a Nemo (2003)",
     "character": "Dory",
-    "image_link": "https://www.imdb.com/title/tt0266543/mediaviewer/rm4217780224/"
+    "image_link": "https://www.imdb.com/title/tt0266543/mediaviewer/rm4217780224/",
+    "number": 21
   },
   {
     "quote": "To infinity and beyond!",
@@ -181,7 +194,8 @@
     "movie": "Toy Story (1995)",
     "movie_spa": "Toy Story (1995)",
     "character": "Buzz Lightyear",
-    "image_link": "https://www.imdb.com/title/tt0114709/mediaviewer/rm1911000832/"
+    "image_link": "https://www.imdb.com/title/tt0114709/mediaviewer/rm1911000832/",
+    "number": 22
   },
   {
     "quote": "You have to do the best with what God gave you.",
@@ -189,7 +203,8 @@
     "movie": "Forrest Gump (1994)",
     "movie_spa": "Forrest Gump (1994)",
     "character": "Forrest Gump",
-    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/",
+    "number": 23
   },
   {
     "quote": "I’m the king of the world!",
@@ -197,7 +212,8 @@
     "movie": "Titanic (1997)",
     "movie_spa": "Titanic (1997)",
     "character": "Jack Dawson",
-    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/",
+    "number": 24
   },
   {
     "quote": "Every man has his breaking point.",
@@ -205,7 +221,8 @@
     "movie": "A Few Good Men (1992)",
     "movie_spa": "Algunos hombres buenos (1992)",
     "character": "Col. Jessep",
-    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002262784/"
+    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002262784/",
+    "number": 25
   },
   {
     "quote": "I’m going to make him an offer he can’t refuse.",
@@ -213,7 +230,8 @@
     "movie": "The Godfather (1972)",
     "movie_spa": "El padrino (1972)",
     "character": "Vito Corleone",
-    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/",
+    "number": 26
   },
   {
     "quote": "You can’t handle the truth!",
@@ -221,7 +239,8 @@
     "movie": "A Few Good Men (1992)",
     "movie_spa": "Algunos hombres buenos (1992)",
     "character": "Col. Jessep",
-    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002297600/"
+    "image_link": "https://www.imdb.com/title/tt0104257/mediaviewer/rm1002297600/",
+    "number": 27
   },
   {
     "quote": "The stuff that dreams are made of.",
@@ -229,7 +248,8 @@
     "movie": "The Maltese Falcon (1941)",
     "movie_spa": "El halcón maltés (1941)",
     "character": "Sam Spade",
-    "image_link": "https://www.imdb.com/title/tt0033870/mediaviewer/rm2373532928/"
+    "image_link": "https://www.imdb.com/title/tt0033870/mediaviewer/rm2373532928/",
+    "number": 28
   },
   {
     "quote": "I wish I knew how to quit you.",
@@ -237,7 +257,8 @@
     "movie": "Brokeback Mountain (2005)",
     "movie_spa": "Secreto en la montaña (2005)",
     "character": "Ennis Del Mar",
-    "image_link": "https://www.imdb.com/title/tt0388795/mediaviewer/rm1417879296/"
+    "image_link": "https://www.imdb.com/title/tt0388795/mediaviewer/rm1417879296/",
+    "number": 29
   },
   {
     "quote": "It’s supposed to be hard. If it wasn’t hard, everyone would do it. The hard... is what makes it great.",
@@ -245,7 +266,8 @@
     "movie": "A League of Their Own (1992)",
     "movie_spa": "Ellas dan el golpe (1992)",
     "character": "Jimmy Dugan",
-    "image_link": "https://www.imdb.com/title/tt0104694/mediaviewer/rm258599040/"
+    "image_link": "https://www.imdb.com/title/tt0104694/mediaviewer/rm258599040/",
+    "number": 30
   },
   {
     "quote": "Just when I thought I was out, they pull me back in.",
@@ -253,7 +275,8 @@
     "movie": "The Godfather: Part III (1990)",
     "movie_spa": "El padrino III (1990)",
     "character": "Michael Corleone",
-    "image_link": "https://www.imdb.com/title/tt0099674/mediaviewer/rm2517260288/"
+    "image_link": "https://www.imdb.com/title/tt0099674/mediaviewer/rm2517260288/",
+    "number": 31
   },
   {
     "quote": "You’re gonna need a bigger boat.",
@@ -261,7 +284,8 @@
     "movie": "Jaws (1975)",
     "movie_spa": "Tiburón (1975)",
     "character": "Martin Brody",
-    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/"
+    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/",
+    "number": 32
   },
   {
     "quote": "I’m mad as hell, and I’m not going to take this anymore!",
@@ -269,7 +293,8 @@
     "movie": "Network (1976)",
     "movie_spa": "Red de mentiras (1976)",
     "character": "Howard Beale",
-    "image_link": "https://www.imdb.com/title/tt0074958/mediaviewer/rm2712411136/"
+    "image_link": "https://www.imdb.com/title/tt0074958/mediaviewer/rm2712411136/",
+    "number": 33
   },
   {
     "quote": "Say hello to my little friend!",
@@ -277,7 +302,8 @@
     "movie": "Scarface (1983)",
     "movie_spa": "Caracortada (1983)",
     "character": "Tony Montana",
-    "image_link": "https://www.imdb.com/title/tt0086250/mediaviewer/rm4097262080/"
+    "image_link": "https://www.imdb.com/title/tt0086250/mediaviewer/rm4097262080/",
+    "number": 34
   },
   {
     "quote": "Why so serious?",
@@ -285,7 +311,8 @@
     "movie": "The Dark Knight (2008)",
     "movie_spa": "El caballero de la noche (2008)",
     "character": "The Joker",
-    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/"
+    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/",
+    "number": 35
   },
   {
     "quote": "I see dead people.",
@@ -293,7 +320,8 @@
     "movie": "The Sixth Sense (1999)",
     "movie_spa": "El sexto sentido (1999)",
     "character": "Cole Sear",
-    "image_link": "https://www.imdb.com/title/tt0167404/mediaviewer/rm2123136000/"
+    "image_link": "https://www.imdb.com/title/tt0167404/mediaviewer/rm2123136000/",
+    "number": 36
   },
   {
     "quote": "Life finds a way.",
@@ -301,7 +329,8 @@
     "movie": "Jurassic Park (1993)",
     "movie_spa": "Parque Jurásico (1993)",
     "character": "Dr. Ian Malcolm",
-    "image_link": "https://www.imdb.com/title/tt0107290/mediaviewer/rm1695739392/"
+    "image_link": "https://www.imdb.com/title/tt0107290/mediaviewer/rm1695739392/",
+    "number": 37
   },
   {
     "quote": "Keep your friends close, but your enemies closer.",
@@ -309,7 +338,8 @@
     "movie": "The Godfather: Part II (1974)",
     "movie_spa": "El padrino: Parte II (1974)",
     "character": "Michael Corleone",
-    "image_link": "https://www.imdb.com/title/tt0071562/mediaviewer/rm1938989312/"
+    "image_link": "https://www.imdb.com/title/tt0071562/mediaviewer/rm1938989312/",
+    "number": 38
   },
   {
     "quote": "Houston, we have a problem.",
@@ -317,7 +347,8 @@
     "movie": "Apollo 13 (1995)",
     "movie_spa": "Apolo 13 (1995)",
     "character": "Jim Lovell",
-    "image_link": "https://www.imdb.com/title/tt0112384/mediaviewer/rm3106417920/"
+    "image_link": "https://www.imdb.com/title/tt0112384/mediaviewer/rm3106417920/",
+    "number": 39
   },
   {
     "quote": "What we do in life echoes in eternity.",
@@ -325,7 +356,8 @@
     "movie": "Gladiator (2000)",
     "movie_spa": "Gladiador (2000)",
     "character": "Maximus",
-    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm1679584768/"
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm1679584768/",
+    "number": 40
   },
   {
     "quote": "Love means never having to say you're sorry.",
@@ -333,7 +365,8 @@
     "movie": "Love Story (1970)",
     "movie_spa": "Historia de amor (1970)",
     "character": "Jennifer Cavalleri",
-    "image_link": "https://www.imdb.com/title/tt0066011/mediaviewer/rm3371515392/"
+    "image_link": "https://www.imdb.com/title/tt0066011/mediaviewer/rm3371515392/",
+    "number": 41
   },
   {
     "quote": "You is kind. You is smart. You is important.",
@@ -341,7 +374,8 @@
     "movie": "The Help (2011)",
     "movie_spa": "Historias cruzadas (2011)",
     "character": "Aibileen Clark",
-    "image_link": "https://www.imdb.com/title/tt1454029/mediaviewer/rm1920328192/"
+    "image_link": "https://www.imdb.com/title/tt1454029/mediaviewer/rm1920328192/",
+    "number": 42
   },
   {
     "quote": "Even the darkest night will end and the sun will rise.",
@@ -349,7 +383,8 @@
     "movie": "Les Misérables (2012)",
     "movie_spa": "Los miserables (2012)",
     "character": "Jean Valjean",
-    "image_link": "https://www.imdb.com/title/tt1707386/mediaviewer/rm1344436480/"
+    "image_link": "https://www.imdb.com/title/tt1707386/mediaviewer/rm1344436480/",
+    "number": 43
   },
   {
     "quote": "To me, you are perfect.",
@@ -357,7 +392,8 @@
     "movie": "Love Actually (2003)",
     "movie_spa": "Realmente amor (2003)",
     "character": "Mark",
-    "image_link": "https://www.imdb.com/title/tt0314331/mediaviewer/rm4126147584/"
+    "image_link": "https://www.imdb.com/title/tt0314331/mediaviewer/rm4126147584/",
+    "number": 44
   },
   {
     "quote": "There’s no shame in being afraid. What matters is how we face it.",
@@ -365,7 +401,8 @@
     "movie": "The Walking Dead (TV)",
     "movie_spa": "The Walking Dead (TV)",
     "character": "Rick Grimes",
-    "image_link": "https://www.imdb.com/title/tt1520211/mediaviewer/rm2908231168/"
+    "image_link": "https://www.imdb.com/title/tt1520211/mediaviewer/rm2908231168/",
+    "number": 45
   },
   {
     "quote": "It’s what you do right now that makes a difference.",
@@ -373,7 +410,8 @@
     "movie": "Black Hawk Down (2001)",
     "movie_spa": "La caída del halcón negro (2001)",
     "character": "Norm 'Hoot' Hooten",
-    "image_link": "https://www.imdb.com/title/tt0265086/mediaviewer/rm3065562624/"
+    "image_link": "https://www.imdb.com/title/tt0265086/mediaviewer/rm3065562624/",
+    "number": 46
   },
   {
     "quote": "Fear is not real. It is the product of thoughts you create.",
@@ -381,7 +419,8 @@
     "movie": "After Earth (2013)",
     "movie_spa": "Después de la Tierra (2013)",
     "character": "Cypher Raige",
-    "image_link": "https://www.imdb.com/title/tt1815862/mediaviewer/rm2246105600/"
+    "image_link": "https://www.imdb.com/title/tt1815862/mediaviewer/rm2246105600/",
+    "number": 47
   },
   {
     "quote": "Don’t let anyone ever make you feel like you don’t deserve what you want.",
@@ -389,7 +428,8 @@
     "movie": "10 Things I Hate About You (1999)",
     "movie_spa": "10 cosas que odio de ti (1999)",
     "character": "Patrick Verona",
-    "image_link": "https://www.imdb.com/title/tt0147800/mediaviewer/rm3711441152/"
+    "image_link": "https://www.imdb.com/title/tt0147800/mediaviewer/rm3711441152/",
+    "number": 48
   },
   {
     "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
@@ -397,7 +437,8 @@
     "movie": "Harry Potter and the Prisoner of Azkaban (2004)",
     "movie_spa": "Harry Potter y el prisionero de Azkaban (2004)",
     "character": "Albus Dumbledore",
-    "image_link": "https://www.imdb.com/title/tt0304141/mediaviewer/rm311528704/"
+    "image_link": "https://www.imdb.com/title/tt0304141/mediaviewer/rm311528704/",
+    "number": 49
   },
   {
     "quote": "You get what you settle for.",
@@ -405,7 +446,8 @@
     "movie": "Thelma & Louise (1991)",
     "movie_spa": "Thelma & Louise (1991)",
     "character": "Louise",
-    "image_link": "https://www.imdb.com/title/tt0103074/mediaviewer/rm2049906944/"
+    "image_link": "https://www.imdb.com/title/tt0103074/mediaviewer/rm2049906944/",
+    "number": 50
   },
   {
     "quote": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
@@ -413,7 +455,8 @@
     "movie": "The Princess Diaries (2001)",
     "movie_spa": "El diario de la princesa (2001)",
     "character": "Joe",
-    "image_link": "https://www.imdb.com/title/tt0247638/mediaviewer/rm1593880576/"
+    "image_link": "https://www.imdb.com/title/tt0247638/mediaviewer/rm1593880576/",
+    "number": 51
   },
   {
     "quote": "You’re only given a little spark of madness. You mustn’t lose it.",
@@ -421,7 +464,8 @@
     "movie": "Robin Williams: Live on Broadway (2002)",
     "movie_spa": "Robin Williams: Live on Broadway (2002)",
     "character": "Robin Williams",
-    "image_link": "https://www.imdb.com/title/tt0338526/mediaviewer/rm3579970560/"
+    "image_link": "https://www.imdb.com/title/tt0330829/mediaviewer/rm3391855616/",
+    "number": 52
   },
   {
     "quote": "It’s not until you lose everything that you can truly appreciate everything.",
@@ -429,7 +473,8 @@
     "movie": "Beauty and the Beast (2017)",
     "movie_spa": "La bella y la bestia (2017)",
     "character": "Beast",
-    "image_link": "https://www.imdb.com/title/tt2771200/mediaviewer/rm3761329152/"
+    "image_link": "https://www.imdb.com/title/tt2771200/mediaviewer/rm3761329152/",
+    "number": 53
   },
   {
     "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
@@ -437,7 +482,8 @@
     "movie": "Darkest Hour (2017)",
     "movie_spa": "Las horas más oscuras (2017)",
     "character": "Winston Churchill",
-    "image_link": "https://www.imdb.com/title/tt4555426/mediaviewer/rm2165468672/"
+    "image_link": "https://www.imdb.com/title/tt4555426/mediaviewer/rm2165468672/",
+    "number": 54
   },
   {
     "quote": "Don’t let the fear of striking out keep you from playing the game.",
@@ -445,7 +491,8 @@
     "movie": "A Cinderella Story (2004)",
     "movie_spa": "Una cenicienta moderna (2004)",
     "character": "Sam",
-    "image_link": "https://www.imdb.com/title/tt0356470/mediaviewer/rm2966706176/"
+    "image_link": "https://www.imdb.com/title/tt0356470/mediaviewer/rm2966706176/",
+    "number": 55
   },
   {
     "quote": "Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.",
@@ -453,7 +500,8 @@
     "movie": "The Imitation Game (2014)",
     "movie_spa": "El código enigma (2014)",
     "character": "Alan Turing",
-    "image_link": "https://www.imdb.com/title/tt2084970/mediaviewer/rm3377921536/"
+    "image_link": "https://www.imdb.com/title/tt2084970/mediaviewer/rm3377921536/",
+    "number": 56
   },
   {
     "quote": "It’s only impossible until it’s done.",
@@ -461,7 +509,8 @@
     "movie": "Mandela: Long Walk to Freedom (2013)",
     "movie_spa": "Mandela: Del mito al hombre (2013)",
     "character": "Nelson Mandela",
-    "image_link": "https://www.imdb.com/title/tt2304771/mediaviewer/rm3321684992/"
+    "image_link": "https://www.imdb.com/title/tt2304771/mediaviewer/rm3321684992/",
+    "number": 57
   },
   {
     "quote": "All we have to decide is what to do with the time that is given to us.",
@@ -469,7 +518,8 @@
     "movie": "The Lord of the Rings: The Fellowship of the Ring (2001)",
     "movie_spa": "El señor de los anillos: La comunidad del anillo (2001)",
     "character": "Gandalf",
-    "image_link": "https://www.imdb.com/title/tt0120737/mediaviewer/rm2278988288/"
+    "image_link": "https://www.imdb.com/title/tt0120737/mediaviewer/rm2278988288/",
+    "number": 58
   },
   {
     "quote": "It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward.",
@@ -477,7 +527,8 @@
     "movie": "Rocky Balboa (2006)",
     "movie_spa": "Rocky Balboa (2006)",
     "character": "Rocky",
-    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/"
+    "image_link": "https://www.imdb.com/title/tt0479143/mediaviewer/rm3831894528/",
+    "number": 59
   },
   {
     "quote": "Fear can hold you prisoner. Hope can set you free.",
@@ -485,7 +536,8 @@
     "movie": "The Shawshank Redemption (1994)",
     "movie_spa": "Cadena perpetua (1994)",
     "character": "Andy Dufresne",
-    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/",
+    "number": 60
   },
   {
     "quote": "I have to remind myself that some birds aren’t meant to be caged. Their feathers are just too bright.",
@@ -493,7 +545,8 @@
     "movie": "The Shawshank Redemption (1994)",
     "movie_spa": "Cadena perpetua (1994)",
     "character": "Red",
-    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
+    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/",
+    "number": 61
   },
   {
     "quote": "Life was like a box of chocolates. You never know what you're gonna get.",
@@ -501,7 +554,8 @@
     "movie": "Forrest Gump (1994)",
     "movie_spa": "Forrest Gump (1994)",
     "character": "Forrest Gump",
-    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/",
+    "number": 62
   },
   {
     "quote": "Stupid is as stupid does.",
@@ -509,7 +563,8 @@
     "movie": "Forrest Gump (1994)",
     "movie_spa": "Forrest Gump (1994)",
     "character": "Forrest Gump",
-    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/"
+    "image_link": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1010563072/",
+    "number": 63
   },
   {
     "quote": "A man who doesn't spend time with his family can never be a real man.",
@@ -517,7 +572,8 @@
     "movie": "The Godfather (1972)",
     "movie_spa": "El padrino (1972)",
     "character": "Vito Corleone",
-    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/",
+    "number": 64
   },
   {
     "quote": "Leave the gun. Take the cannoli.",
@@ -525,7 +581,8 @@
     "movie": "The Godfather (1972)",
     "movie_spa": "El padrino (1972)",
     "character": "Peter Clemenza",
-    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/"
+    "image_link": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/",
+    "number": 65
   },
   {
     "quote": "No. I am your father.",
@@ -533,7 +590,8 @@
     "movie": "Star Wars: The Empire Strikes Back (1980)",
     "movie_spa": "Star Wars: Episodio V - El Imperio Contraataca (1980)",
     "character": "Darth Vader",
-    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/"
+    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm332363520/",
+    "number": 66
   },
   {
     "quote": "Are you not entertained?",
@@ -541,7 +599,8 @@
     "movie": "Gladiator (2000)",
     "movie_spa": "Gladiador (2000)",
     "character": "Maximus",
-    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/",
+    "number": 67
   },
   {
     "quote": "Strength and honor.",
@@ -549,7 +608,8 @@
     "movie": "Gladiator (2000)",
     "movie_spa": "Gladiador (2000)",
     "character": "Maximus",
-    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/"
+    "image_link": "https://www.imdb.com/title/tt0172495/mediaviewer/rm2563725824/",
+    "number": 68
   },
   {
     "quote": "A woman's heart is a deep ocean of secrets.",
@@ -557,7 +617,8 @@
     "movie": "Titanic (1997)",
     "movie_spa": "Titanic (1997)",
     "character": "Rose DeWitt Bukater",
-    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/",
+    "number": 69
   },
   {
     "quote": "I'll never let go, Jack. I'll never let go.",
@@ -565,7 +626,8 @@
     "movie": "Titanic (1997)",
     "movie_spa": "Titanic (1997)",
     "character": "Rose DeWitt Bukater",
-    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/"
+    "image_link": "https://www.imdb.com/title/tt0120338/mediaviewer/rm1556735232/",
+    "number": 70
   },
   {
     "quote": "Some men just want to watch the world burn.",
@@ -573,7 +635,8 @@
     "movie": "The Dark Knight (2008)",
     "movie_spa": "El caballero de la noche (2008)",
     "character": "Alfred Pennyworth",
-    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/"
+    "image_link": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023870464/",
+    "number": 71
   },
   {
     "quote": "We're gonna need a bigger boat.",
@@ -581,7 +644,8 @@
     "movie": "Jaws (1975)",
     "movie_spa": "Tiburón (1975)",
     "character": "Martin Brody",
-    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/"
+    "image_link": "https://www.imdb.com/title/tt0073195/mediaviewer/rm1546363648/",
+    "number": 72
   },
   {
     "quote": "They may take our lives, but they'll never take our freedom!",
@@ -589,7 +653,8 @@
     "movie": "Braveheart (1995)",
     "movie_spa": "Corazón valiente (1995)",
     "character": "William Wallace",
-    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/"
+    "image_link": "https://www.imdb.com/title/tt0112573/mediaviewer/rm2882743040/",
+    "number": 73
   },
   {
     "quote": "Toto, I've a feeling we're not in Kansas anymore.",
@@ -597,23 +662,8 @@
     "movie": "The Wizard of Oz (1939)",
     "movie_spa": "El mago de Oz (1939)",
     "character": "Dorothy Gale",
-    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/"
-  },
-  {
-    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
-    "quote_spa": "La esperanza es algo bueno, tal vez lo mejor de todo, y las cosas buenas no mueren.",
-    "movie": "The Shawshank Redemption",
-    "movie_spa": "Sueños de libertad",
-    "character": "Andy Dufresne",
-    "image_link": "https://www.imdb.com/title/tt0111161/mediaviewer/rm195474688/"
-  },
-  {
-    "quote": "Do, or do not. There is no try.",
-    "quote_spa": "Hazlo o no lo hagas, pero no lo intentes.",
-    "movie": "Star Wars: Episode V - The Empire Strikes Back",
-    "movie_spa": "La guerra de las galaxias: Episodio V - El imperio contraataca",
-    "character": "Yoda",
-    "image_link": "https://www.imdb.com/title/tt0080684/mediaviewer/rm311108352/"
+    "image_link": "https://www.imdb.com/title/tt0032138/mediaviewer/rm3514045184/",
+    "number": 74
   },
   {
     "quote": "It's not who I am underneath, but what I do that defines me.",
@@ -621,15 +671,8 @@
     "movie": "Batman Begins",
     "movie_spa": "Batman Inicia",
     "character": "Batman",
-    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1421398528/"
-  },
-  {
-    "quote": "Just keep swimming.",
-    "quote_spa": "Sigue nadando.",
-    "movie": "Finding Nemo",
-    "movie_spa": "Buscando a Nemo",
-    "character": "Dory",
-    "image_link": "https://www.imdb.com/title/tt0266543/mediaviewer/rm2731236352/"
+    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1421398528/",
+    "number": 75
   },
   {
     "quote": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
@@ -637,7 +680,8 @@
     "movie": "Ferris Bueller's Day Off",
     "movie_spa": "Un experto en diversión",
     "character": "Ferris Bueller",
-    "image_link": "https://www.imdb.com/title/tt0091042/mediaviewer/rm207470592/"
+    "image_link": "https://www.imdb.com/title/tt0091042/mediaviewer/rm207470592/",
+    "number": 76
   },
   {
     "quote": "After a while, you learn to ignore the names people call you and just trust who you are.",
@@ -645,47 +689,8 @@
     "movie": "Shrek",
     "movie_spa": "Shrek",
     "character": "Shrek",
-    "image_link": "https://www.imdb.com/title/tt0126029/mediaviewer/rm2513891840/"
-  },
-  {
-    "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
-    "quote_spa": "La felicidad se puede encontrar hasta en los momentos más oscuros, si somos capaces de usar bien la luz.",
-    "movie": "Harry Potter and the Prisoner of Azkaban",
-    "movie_spa": "Harry Potter y el prisionero de Azkaban",
-    "character": "Albus Dumbledore",
-    "image_link": "https://www.imdb.com/title/tt0304141/mediaviewer/rm2951842048/"
-  },
-  {
-    "quote": "To infinity... and beyond!",
-    "quote_spa": "¡Hasta el infinito y más allá!",
-    "movie": "Toy Story",
-    "movie_spa": "Toy Story",
-    "character": "Buzz Lightyear",
-    "image_link": "https://www.imdb.com/title/tt0114709/mediaviewer/rm2321468928/"
-  },
-  {
-    "quote": "Why do we fall, sir? So that we can learn to pick ourselves up.",
-    "quote_spa": "¿Por qué caemos, señor? Para poder aprender a levantarnos.",
-    "movie": "Batman Begins",
-    "movie_spa": "Batman Inicia",
-    "character": "Alfred Pennyworth",
-    "image_link": "https://www.imdb.com/title/tt0372784/mediaviewer/rm1421398528/"
-  },
-  {
-    "quote": "All we have to decide is what to do with the time that is given to us.",
-    "quote_spa": "Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.",
-    "movie": "The Lord of the Rings: The Fellowship of the Ring",
-    "movie_spa": "El señor de los anillos: La comunidad del anillo",
-    "character": "Gandalf",
-    "image_link": "https://www.imdb.com/title/tt0120737/mediaviewer/rm3592954880/"
-  },
-  {
-    "quote": "It’s only after we’ve lost everything that we’re free to do anything.",
-    "quote_spa": "Solo después de haberlo perdido todo somos libres para hacer cualquier cosa.",
-    "movie": "Fight Club",
-    "movie_spa": "El club de la pelea",
-    "character": "Tyler Durden",
-    "image_link": "https://www.imdb.com/title/tt0137523/mediaviewer/rm4266230784/"
+    "image_link": "https://www.imdb.com/title/tt0126029/mediaviewer/rm2513891840/",
+    "number": 77
   },
   {
     "quote": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
@@ -693,23 +698,8 @@
     "movie": "The Lion King",
     "movie_spa": "El rey león",
     "character": "Rafiki",
-    "image_link": "https://www.imdb.com/title/tt0110357/mediaviewer/rm3773881856/"
-  },
-  {
-    "quote": "You is kind. You is smart. You is important.",
-    "quote_spa": "Eres amable. Eres inteligente. Eres importante.",
-    "movie": "The Help",
-    "movie_spa": "Historias cruzadas",
-    "character": "Aibileen Clark",
-    "image_link": "https://www.imdb.com/title/tt1454029/mediaviewer/rm3140092928/"
-  },
-  {
-    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
-    "quote_spa": "Carpe diem. Aprovechad el día, chicos. Haced que vuestras vidas sean extraordinarias.",
-    "movie": "Dead Poets Society",
-    "movie_spa": "La sociedad de los poetas muertos",
-    "character": "John Keating",
-    "image_link": "https://www.imdb.com/title/tt0097165/mediaviewer/rm260149632/"
+    "image_link": "https://www.imdb.com/title/tt0110357/mediaviewer/rm3773881856/",
+    "number": 78
   },
   {
     "quote": "You have to do everything you can, and if you stay positive, you have a shot at a silver lining.",
@@ -717,6 +707,1510 @@
     "movie": "Silver Linings Playbook",
     "movie_spa": "Los juegos del destino",
     "character": "Pat Solitano",
-    "image_link": "https://www.imdb.com/title/tt1045658/mediaviewer/rm2043470336/"
+    "image_link": "https://www.imdb.com/title/tt1045658/mediaviewer/rm2043470336/",
+    "number": 79
+  },
+  {
+    "number": 80,
+    "quote": "I'm just a girl, standing in front of a boy, asking him to love her.",
+    "quote_spa": "Solo soy una chica, parada frente a un chico, pidiéndole que la ame.",
+    "movie": "Notting Hill (1999)",
+    "movie_spa": "Un lugar llamado Notting Hill (1999)",
+    "character": "Anna Scott",
+    "image_link": "https://www.imdb.com/title/tt0125439/mediaviewer/rm1572363776/"
+  },
+  {
+    "number": 81,
+    "quote": "You make me want to be a better man.",
+    "quote_spa": "Me haces querer ser un mejor hombre.",
+    "movie": "As Good as It Gets (1997)",
+    "movie_spa": "Mejor... imposible (1997)",
+    "character": "Melvin Udall",
+    "image_link": "https://www.imdb.com/title/tt0119822/mediaviewer/rm322914048/"
+  },
+  {
+    "number": 82,
+    "quote": "You cannot live your life to please others. The choice must be yours.",
+    "quote_spa": "No puedes vivir tu vida para complacer a los demás. La elección debe ser tuya.",
+    "movie": "Alice in Wonderland (2010)",
+    "movie_spa": "Alicia en el país de las maravillas (2010)",
+    "character": "White Queen",
+    "image_link": "https://www.imdb.com/title/tt1014759/mediaviewer/rm2173746688/"
+  },
+  {
+    "number": 83,
+    "quote": "I'm having an old friend for dinner.",
+    "quote_spa": "Voy a cenar con un viejo amigo.",
+    "movie": "The Silence of the Lambs (1991)",
+    "movie_spa": "El silencio de los inocentes (1991)",
+    "character": "Hannibal Lecter",
+    "image_link": "https://www.imdb.com/title/tt0102926/mediaviewer/rm2876186880/"
+  },
+  {
+    "number": 84,
+    "quote": "There’s no such thing as too far, only how far you’re willing to go.",
+    "quote_spa": "No existe el demasiado lejos, solo cuán lejos estás dispuesto a llegar.",
+    "movie": "Slumdog Millionaire (2008)",
+    "movie_spa": "¿Quién quiere ser millonario? (2008)",
+    "character": "Jamal Malik",
+    "image_link": "https://www.imdb.com/title/tt1010048/mediaviewer/rm4112964352/"
+  },
+  {
+    "number": 85,
+    "quote": "I am big! It’s the pictures that got small.",
+    "quote_spa": "¡Soy grande! Son las películas las que se hicieron pequeñas.",
+    "movie": "Sunset Boulevard (1950)",
+    "movie_spa": "El crepúsculo de los dioses (1950)",
+    "character": "Norma Desmond",
+    "image_link": "https://www.imdb.com/title/tt0043014/mediaviewer/rm3618236672/"
+  },
+  {
+    "number": 86,
+    "quote": "With great power comes great responsibility.",
+    "quote_spa": "Con gran poder viene una gran responsabilidad.",
+    "movie": "Spider-Man (2002)",
+    "movie_spa": "El Hombre Araña (2002)",
+    "character": "Uncle Ben",
+    "image_link": "https://www.imdb.com/title/tt0145487/mediaviewer/rm1375445504/"
+  },
+  {
+    "number": 87,
+    "quote": "You have no idea what I’m capable of.",
+    "quote_spa": "No tienes idea de lo que soy capaz.",
+    "movie": "Black Swan (2010)",
+    "movie_spa": "El cisne negro (2010)",
+    "character": "Nina Sayers",
+    "image_link": "https://www.imdb.com/title/tt0947798/mediaviewer/rm248979328/"
+  },
+  {
+    "number": 88,
+    "quote": "It’s hard to stay mad when there’s so much beauty in the world.",
+    "quote_spa": "Es difícil estar enojado cuando hay tanta belleza en el mundo.",
+    "movie": "American Beauty (1999)",
+    "movie_spa": "Belleza americana (1999)",
+    "character": "Lester Burnham",
+    "image_link": "https://www.imdb.com/title/tt0169547/mediaviewer/rm2944059392/"
+  },
+  {
+    "number": 89,
+    "quote": "There are no two words in the English language more harmful than 'good job'.",
+    "quote_spa": "No hay dos palabras en inglés más dañinas que 'buen trabajo'.",
+    "movie": "Whiplash (2014)",
+    "movie_spa": "Whiplash: Música y obsesión (2014)",
+    "character": "Terence Fletcher",
+    "image_link": "https://www.imdb.com/title/tt2582802/mediaviewer/rm1772390656/"
+  },
+  {
+    "number": 90,
+    "quote": "In another life, I would have really liked just doing laundry and taxes with you.",
+    "quote_spa": "En otra vida, realmente me hubiera gustado solo lavar ropa y hacer impuestos contigo.",
+    "movie": "Everything Everywhere All At Once (2022)",
+    "movie_spa": "Todo en todas partes al mismo tiempo (2022)",
+    "character": "Waymond Wang",
+    "image_link": "https://www.imdb.com/title/tt6710474/mediaviewer/rm3956401153/"
+  },
+  {
+    "number": 91,
+    "quote": "If it takes a village to raise a child, it takes a village to abuse one.",
+    "quote_spa": "Si se necesita una aldea para criar a un niño, se necesita una aldea para abusar de uno.",
+    "movie": "Spotlight (2015)",
+    "movie_spa": "En primera plana (2015)",
+    "character": "Mitchell Garabedian",
+    "image_link": "https://www.imdb.com/title/tt1895587/mediaviewer/rm2110768640/"
+  },
+  {
+    "number": 92,
+    "quote": "You know what kind of plan never fails? No plan at all.",
+    "quote_spa": "¿Sabes qué tipo de plan nunca falla? Ningún plan.",
+    "movie": "Parasite (2019)",
+    "movie_spa": "Parásitos (2019)",
+    "character": "Kim Ki-taek",
+    "image_link": "https://www.imdb.com/title/tt6751668/mediaviewer/rm2511265792/"
+  },
+  {
+    "number": 93,
+    "quote": "A guy who makes a new chair doesn’t owe money to everyone who ever built a chair.",
+    "quote_spa": "Un tipo que hace una nueva silla no le debe dinero a todos los que alguna vez construyeron una.",
+    "movie": "The Social Network (2010)",
+    "movie_spa": "Red social (2010)",
+    "character": "Mark Zuckerberg",
+    "image_link": "https://www.imdb.com/title/tt1285016/mediaviewer/rm3845543424/"
+  },
+  {
+    "number": 94,
+    "quote": "The ones who are crazy enough to think they can change the world are the ones who do.",
+    "quote_spa": "Los que están lo suficientemente locos como para pensar que pueden cambiar el mundo son los que lo logran.",
+    "movie": "Steve Jobs (2015)",
+    "movie_spa": "Steve Jobs (2015)",
+    "character": "Steve Jobs",
+    "image_link": "https://www.imdb.com/title/tt2080374/mediaviewer/rm3290669312/"
+  },
+  {
+    "number": 95,
+    "quote": "Keep your hands off my lobby boy!",
+    "quote_spa": "¡Mantén tus manos fuera de mi botones!",
+    "movie": "The Grand Budapest Hotel (2014)",
+    "movie_spa": "El Gran Hotel Budapest (2014)",
+    "character": "M. Gustave",
+    "image_link": "https://www.imdb.com/title/tt2278388/mediaviewer/rm1504340480/"
+  },
+  {
+    "number": 96,
+    "quote": "Times are hard for dreamers.",
+    "quote_spa": "Los tiempos son difíciles para los soñadores.",
+    "movie": "Amélie (2001)",
+    "movie_spa": "Amélie (2001)",
+    "character": "Amélie Poulain",
+    "image_link": "https://www.imdb.com/title/tt0211915/mediaviewer/rm4220177920/"
+  },
+  {
+    "number": 97,
+    "quote": "Either you decide to stay in the shallow end of the pool or you go out in the ocean.",
+    "quote_spa": "O decides quedarte en la parte baja de la piscina o sales al océano.",
+    "movie": "Gravity (2013)",
+    "movie_spa": "Gravedad (2013)",
+    "character": "Ryan Stone",
+    "image_link": "https://www.imdb.com/title/tt1454468/mediaviewer/rm3664081408/"
+  },
+  {
+    "number": 98,
+    "quote": "When there’s a storm, and you stand in front of a tree, you’ll get hit by lightning. But if you run into the storm, you’ll make it through.",
+    "quote_spa": "Cuando hay tormenta y te paras frente a un árbol, te caerá un rayo. Pero si corres hacia la tormenta, la atravesarás.",
+    "movie": "The Revenant (2015)",
+    "movie_spa": "El renacido (2015)",
+    "character": "Hugh Glass",
+    "image_link": "https://www.imdb.com/title/tt1663202/mediaviewer/rm1728818176/"
+  },
+  {
+    "number": 99,
+    "quote": "Sometimes I think I have felt everything I’m ever gonna feel. And from here on out, I’m not gonna feel anything new. Just lesser versions of what I’ve already felt.",
+    "quote_spa": "A veces pienso que ya he sentido todo lo que voy a sentir. Y de aquí en adelante, no sentiré nada nuevo. Solo versiones menores de lo que ya sentí.",
+    "movie": "Her (2013)",
+    "movie_spa": "Ella (2013)",
+    "character": "Theodore Twombly",
+    "image_link": "https://www.imdb.com/title/tt1798709/mediaviewer/rm1375445504/"
+  },
+  {
+    "number": 100,
+    "quote": "Sometimes to love someone, you got to be a stranger.",
+    "quote_spa": "A veces, para amar a alguien, tienes que ser un extraño.",
+    "movie": "Blade Runner 2049 (2017)",
+    "movie_spa": "Blade Runner 2049 (2017)",
+    "character": "Rick Deckard",
+    "image_link": "https://www.imdb.com/title/tt1856101/mediaviewer/rm1736458752/"
+  },
+  {
+    "number": 101,
+    "quote": "Alright, alright, alright.",
+    "quote_spa": "Muy bien, muy bien, muy bien.",
+    "movie": "Dazed and Confused (1993)",
+    "movie_spa": "Rebeldes y confundidos (1993)",
+    "character": "David Wooderson",
+    "image_link": "https://www.imdb.com/title/tt0106677/mediaviewer/rm2790076928/"
+  },
+  {
+    "number": 102,
+    "quote": "Isn't everything we do in life a way to be loved a little more?",
+    "quote_spa": "¿No es todo lo que hacemos en la vida una forma de ser amados un poco más?",
+    "movie": "Before Sunrise (1995)",
+    "movie_spa": "Antes del amanecer (1995)",
+    "character": "Celine",
+    "image_link": "https://www.imdb.com/title/tt0112471/mediaviewer/rm185052416/"
+  },
+  {
+    "number": 103,
+    "quote": "One great rock show can change the world.",
+    "quote_spa": "Un gran show de rock puede cambiar el mundo.",
+    "movie": "School of Rock (2003)",
+    "movie_spa": "Escuela de rock (2003)",
+    "character": "Dewey Finn",
+    "image_link": "https://www.imdb.com/title/tt0332379/mediaviewer/rm2529875456/"
+  },
+  {
+    "number": 104,
+    "quote": "You can never replace anyone because everyone is made up of such beautiful specific details.",
+    "quote_spa": "Nunca puedes reemplazar a nadie porque todos están hechos de detalles específicos y hermosos.",
+    "movie": "Before Sunset (2004)",
+    "movie_spa": "Antes del atardecer (2004)",
+    "character": "Celine",
+    "image_link": "https://www.imdb.com/title/tt0381681/mediaviewer/rm1375445504/"
+  },
+  {
+    "number": 105,
+    "quote": "I assure you, that guy you vaguely remember, the sweet romantic one you met on a train? That is not me.",
+    "quote_spa": "Te aseguro, ese tipo que apenas recuerdas, el dulce romántico que conociste en un tren... ese no soy yo.",
+    "movie": "Before Midnight (2013)",
+    "movie_spa": "Antes de la medianoche (2013)",
+    "character": "Jesse",
+    "image_link": "https://www.imdb.com/title/tt2209418/mediaviewer/rm2310836224/"
+  },
+  {
+    "number": 106,
+    "quote": "We're here for a good time, not a long time.",
+    "quote_spa": "Estamos aquí para pasarla bien, no por mucho tiempo.",
+    "movie": "Everybody Wants Some!! (2016)",
+    "movie_spa": "Todos queremos algo!! (2016)",
+    "character": "Jake",
+    "image_link": "https://www.imdb.com/title/tt2937696/mediaviewer/rm4056973312/"
+  },
+  {
+    "number": 107,
+    "quote": "We’re gonna be okay. We’re gonna be all right.",
+    "quote_spa": "Vamos a estar bien. Todo va a estar bien.",
+    "movie": "Last Flag Flying (2017)",
+    "movie_spa": "La última bandera (2017)",
+    "character": "Larry 'Doc' Shepherd",
+    "image_link": "https://www.imdb.com/title/tt6018306/mediaviewer/rm1279938048/"
+  },
+  {
+    "number": 108,
+    "quote": "Deserve's got nothin' to do with it.",
+    "quote_spa": "El merecer no tiene nada que ver con esto.",
+    "movie": "Unforgiven (1992)",
+    "movie_spa": "Los imperdonables (1992)",
+    "character": "William Munny",
+    "image_link": "https://www.imdb.com/title/tt0105695/mediaviewer/rm3681145600/"
+  },
+  {
+    "number": 109,
+    "quote": "This kind of certainty comes but just once in a lifetime.",
+    "quote_spa": "Esta clase de certeza llega solo una vez en la vida.",
+    "movie": "The Bridges of Madison County (1995)",
+    "movie_spa": "Los puentes de Madison (1995)",
+    "character": "Robert Kincaid",
+    "image_link": "https://www.imdb.com/title/tt0112579/mediaviewer/rm2098841600/"
+  },
+  {
+    "number": 110,
+    "quote": "Sometimes I think, I should just put this whole town in my rear-view mirror.",
+    "quote_spa": "A veces pienso que debería dejar todo este pueblo atrás.",
+    "movie": "Mystic River (2003)",
+    "movie_spa": "Río místico (2003)",
+    "character": "Jimmy Markum",
+    "image_link": "https://www.imdb.com/title/tt0327056/mediaviewer/rm2366179840/"
+  },
+  {
+    "number": 111,
+    "quote": "How often do you find the right person?",
+    "quote_spa": "¿Con qué frecuencia encuentras a la persona correcta?",
+    "movie": "Once (2007)",
+    "movie_spa": "Once (2007)",
+    "character": "Guy",
+    "image_link": "https://www.imdb.com/title/tt0907657/mediaviewer/rm196597632/"
+  },
+  {
+    "number": 112,
+    "quote": "It’s the magic of risking everything for a dream nobody sees but you.",
+    "quote_spa": "Es la magia de arriesgarlo todo por un sueño que nadie más ve, excepto tú.",
+    "movie": "Million Dollar Baby (2004)",
+    "movie_spa": "Golpes del destino (2004)",
+    "character": "Maggie Fitzgerald",
+    "image_link": "https://www.imdb.com/title/tt0405159/mediaviewer/rm3082487296/"
+  },
+  {
+    "number": 113,
+    "quote": "Nobody asks to be a hero, it just sometimes turns out that way.",
+    "quote_spa": "Nadie pide ser un héroe, a veces simplemente sucede.",
+    "movie": "Flags of Our Fathers (2006)",
+    "movie_spa": "La conquista del honor (2006)",
+    "character": "John 'Doc' Bradley",
+    "image_link": "https://www.imdb.com/title/tt0418689/mediaviewer/rm1089070848/"
+  },
+  {
+    "number": 114,
+    "quote": "The world will know that free men stood against a tyrant.",
+    "quote_spa": "El mundo sabrá que hombres libres se enfrentaron a un tirano.",
+    "movie": "Letters from Iwo Jima (2006)",
+    "movie_spa": "Cartas desde Iwo Jima (2006)",
+    "character": "General Kuribayashi",
+    "image_link": "https://www.imdb.com/title/tt0498380/mediaviewer/rm280255616/"
+  },
+  {
+    "number": 115,
+    "quote": "Ever notice how you come across somebody once in a while you shouldn't have messed with? That's me.",
+    "quote_spa": "¿Te has dado cuenta de que a veces te topas con alguien con quien no deberías haberte metido? Ese soy yo.",
+    "movie": "Gran Torino (2008)",
+    "movie_spa": "Gran Torino (2008)",
+    "character": "Walt Kowalski",
+    "image_link": "https://www.imdb.com/title/tt1205489/mediaviewer/rm2094215936/"
+  },
+  {
+    "number": 116,
+    "quote": "I don't know how to quit.",
+    "quote_spa": "No sé cómo rendirme.",
+    "movie": "The Pursuit of Happyness (2006)",
+    "movie_spa": "En busca de la felicidad (2006)",
+    "character": "Chris Gardner",
+    "image_link": "https://www.imdb.com/title/tt0454921/mediaviewer/rm195474688/"
+  },
+  {
+    "number": 116,
+    "quote": "A man like you lives forever.",
+    "quote_spa": "Un hombre como tú vive para siempre.",
+    "movie": "Hereafter (2010)",
+    "movie_spa": "Más allá de la vida (2010)",
+    "character": "Marie Lelay",
+    "image_link": "https://www.imdb.com/title/tt1212419/mediaviewer/rm3383491584/"
+  },
+  {
+    "number": 117,
+    "quote": "I don’t know whether I’m a hero or a coward.",
+    "quote_spa": "No sé si soy un héroe o un cobarde.",
+    "movie": "American Sniper (2014)",
+    "movie_spa": "Francotirador (2014)",
+    "character": "Chris Kyle",
+    "image_link": "https://www.imdb.com/title/tt2179136/mediaviewer/rm1197957632/"
+  },
+  {
+    "number": 118,
+    "quote": "I’ve delivered a million passengers safely, but in the end, I’m going to be judged on 208 seconds.",
+    "quote_spa": "He llevado a un millón de pasajeros a salvo, pero al final, seré juzgado por 208 segundos.",
+    "movie": "Sully (2016)",
+    "movie_spa": "Sully: Hazaña en el Hudson (2016)",
+    "character": "Chesley 'Sully' Sullenberger",
+    "image_link": "https://www.imdb.com/title/tt3263904/mediaviewer/rm1144033792/"
+  },
+  {
+    "number": 119,
+    "quote": "Sometimes the right thing is not the easiest thing.",
+    "quote_spa": "A veces, lo correcto no es lo más fácil.",
+    "movie": "Juror #2 (2024)",
+    "movie_spa": "Juror #2 (2024)",
+    "character": "Justin Kemp",
+    "image_link": "https://www.imdb.com/title/tt17527458/mediaviewer/"
+  },
+  {
+    "number": 120,
+    "quote": "Memory can change the shape of a room; it can change the color of a car.",
+    "quote_spa": "La memoria puede cambiar la forma de una habitación; puede cambiar el color de un auto.",
+    "movie": "Memento (2000)",
+    "movie_spa": "Amnesia (2000)",
+    "character": "Leonard Shelby",
+    "image_link": "https://www.imdb.com/title/tt0209144/mediaviewer/rm3556460032/"
+  },
+  {
+    "number": 121,
+    "quote": "You're supposed to be some kind of detective.",
+    "quote_spa": "Se supone que eres una especie de detective.",
+    "movie": "Insomnia (2002)",
+    "movie_spa": "Insomnio (2002)",
+    "character": "Will Dormer",
+    "image_link": "https://www.imdb.com/title/tt0278504/mediaviewer/rm2443464448/"
+  },
+  {
+    "number": 122,
+    "quote": "Are you watching closely?",
+    "quote_spa": "¿Estás mirando atentamente?",
+    "movie": "The Prestige (2006)",
+    "movie_spa": "El gran truco (2006)",
+    "character": "Robert Angier",
+    "image_link": "https://www.imdb.com/title/tt0482571/mediaviewer/rm244799744/"
+  },
+  {
+    "number": 123,
+    "quote": "You mustn’t be afraid to dream a little bigger, darling.",
+    "quote_spa": "No debes tener miedo de soñar un poco más grande, cariño.",
+    "movie": "Inception (2010)",
+    "movie_spa": "El origen (2010)",
+    "character": "Eames",
+    "image_link": "https://www.imdb.com/title/tt1375666/mediaviewer/rm3426656256/"
+  },
+  {
+    "number": 124,
+    "quote": "A hero can be anyone.",
+    "quote_spa": "Un héroe puede ser cualquiera.",
+    "movie": "The Dark Knight Rises (2012)",
+    "movie_spa": "El caballero de la noche asciende (2012)",
+    "character": "Bruce Wayne",
+    "image_link": "https://www.imdb.com/title/tt1345836/mediaviewer/rm175437312/"
+  },
+  {
+    "number": 125,
+    "quote": "Love is the one thing we're capable of perceiving that transcends dimensions of time and space.",
+    "quote_spa": "El amor es la única cosa que podemos percibir que trasciende las dimensiones del tiempo y el espacio.",
+    "movie": "Interstellar (2014)",
+    "movie_spa": "Interestelar (2014)",
+    "character": "Dr. Brand",
+    "image_link": "https://www.imdb.com/title/tt0816692/mediaviewer/rm3280340480/"
+  },
+  {
+    "number": 126,
+    "quote": "What’s happened, happened. Which is an expression of faith in the mechanics of the world.",
+    "quote_spa": "Lo que pasó, pasó. Es una expresión de fe en la mecánica del mundo.",
+    "movie": "Tenet (2020)",
+    "movie_spa": "Tenet (2020)",
+    "character": "Neil",
+    "image_link": "https://www.imdb.com/title/tt6723592/mediaviewer/rm1887485953/"
+  },
+  {
+    "number": 127,
+    "quote": "Now I am become Death, the destroyer of worlds.",
+    "quote_spa": "Ahora me he convertido en la Muerte, el destructor de mundos.",
+    "movie": "Oppenheimer (2023)",
+    "movie_spa": "Oppenheimer (2023)",
+    "character": "J. Robert Oppenheimer",
+    "image_link": "https://www.imdb.com/title/tt15398776/mediaviewer/rm3868599809/"
+  },
+  {
+    "number": 128,
+    "quote": "Bond. James Bond.",
+    "quote_spa": "Bond. James Bond.",
+    "movie": "Dr. No (1962)",
+    "movie_spa": "007 contra el Dr. No (1962)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0055928/mediaviewer/rm3886508800/"
+  },
+  {
+    "number": 129,
+    "quote": "Do you expect me to talk? No, Mr. Bond, I expect you to die!",
+    "quote_spa": "¿Espera que hable? ¡No, Sr. Bond! ¡Espero que muera!",
+    "movie": "Goldfinger (1964)",
+    "movie_spa": "Goldfinger (1964)",
+    "character": "Auric Goldfinger",
+    "image_link": "https://www.imdb.com/title/tt0058150/mediaviewer/rm3410643968/"
+  },
+  {
+    "number": 130,
+    "quote": "Diamonds are forever, and so am I.",
+    "quote_spa": "Los diamantes son eternos, y yo también.",
+    "movie": "Diamonds Are Forever (1971)",
+    "movie_spa": "Los diamantes son eternos (1971)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0066995/mediaviewer/rm4180186624/"
+  },
+  {
+    "number": 131,
+    "quote": "What a view to a kill.",
+    "quote_spa": "Qué vista para matar.",
+    "movie": "A View to a Kill (1985)",
+    "movie_spa": "En la mira de los asesinos (1985)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0090264/mediaviewer/rm3073104640/"
+  },
+  {
+    "number": 132,
+    "quote": "He got the message. The living daylights out of him.",
+    "quote_spa": "Recibió el mensaje. Lo dejó sin aliento.",
+    "movie": "The Living Daylights (1987)",
+    "movie_spa": "007: Alta tensión (1987)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0093428/mediaviewer/rm3700188672/"
+  },
+  {
+    "number": 133,
+    "quote": "You earn it, then you take it.",
+    "quote_spa": "Lo ganas, y entonces lo tomas.",
+    "movie": "Licence to Kill (1989)",
+    "movie_spa": "Licencia para matar (1989)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0097742/mediaviewer/rm1467539200/"
+  },
+  {
+    "number": 134,
+    "quote": "For England, James?",
+    "quote_spa": "¿Por Inglaterra, James?",
+    "movie": "GoldenEye (1995)",
+    "movie_spa": "GoldenEye (1995)",
+    "character": "Alec Trevelyan",
+    "image_link": "https://www.imdb.com/title/tt0113189/mediaviewer/rm355501568/"
+  },
+  {
+    "number": 135,
+    "quote": "The distance between insanity and genius is measured only by success.",
+    "quote_spa": "La distancia entre la locura y la genialidad solo se mide por el éxito.",
+    "movie": "Tomorrow Never Dies (1997)",
+    "movie_spa": "El mañana nunca muere (1997)",
+    "character": "Elliot Carver",
+    "image_link": "https://www.imdb.com/title/tt0120347/mediaviewer/rm2302550528/"
+  },
+  {
+    "number": 136,
+    "quote": "I never joke about my work, 007.",
+    "quote_spa": "Nunca bromeo sobre mi trabajo, 007.",
+    "movie": "The World Is Not Enough (1999)",
+    "movie_spa": "El mundo no basta (1999)",
+    "character": "Q",
+    "image_link": "https://www.imdb.com/title/tt0143145/mediaviewer/rm3642538752/"
+  },
+  {
+    "number": 137,
+    "quote": "I never miss.",
+    "quote_spa": "Nunca fallo.",
+    "movie": "Die Another Day (2002)",
+    "movie_spa": "Otro día para morir (2002)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0246460/mediaviewer/rm1056712704/"
+  },
+  {
+    "number": 138,
+    "quote": "Bond. You know my name.",
+    "quote_spa": "Bond. Sabes mi nombre.",
+    "movie": "Casino Royale (2006)",
+    "movie_spa": "Casino Royale (2006)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt0381061/mediaviewer/rm4201201920/"
+  },
+  {
+    "number": 139,
+    "quote": "Some men are coming to kill us. We're going to kill them first.",
+    "quote_spa": "Algunos hombres vienen a matarnos. Los mataremos primero.",
+    "movie": "Skyfall (2012)",
+    "movie_spa": "Operación Skyfall (2012)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt1074638/mediaviewer/rm242479232/"
+  },
+  {
+    "number": 140,
+    "quote": "History isn't kind to men who play God.",
+    "quote_spa": "La historia no es amable con los hombres que juegan a ser Dios.",
+    "movie": "No Time to Die (2021)",
+    "movie_spa": "Sin tiempo para morir (2021)",
+    "character": "James Bond",
+    "image_link": "https://www.imdb.com/title/tt2382320/mediaviewer/rm3032741633/"
+  },
+  {
+    "number": 141,
+    "quote": "They call it a royale with cheese.",
+    "quote_spa": "Lo llaman una 'Royale con queso'.",
+    "movie": "Pulp Fiction (1994)",
+    "movie_spa": "Tiempos violentos (1994)",
+    "character": "Vincent Vega",
+    "image_link": "https://www.imdb.com/title/tt0110912/mediaviewer/rm360198400/"
+  },
+  {
+    "number": 142,
+    "quote": "Zed's dead, baby. Zed's dead.",
+    "quote_spa": "Zed está muerto, nena. Zed está muerto.",
+    "movie": "Pulp Fiction (1994)",
+    "movie_spa": "Tiempos violentos (1994)",
+    "character": "Butch Coolidge",
+    "image_link": "https://www.imdb.com/title/tt0110912/mediaviewer/rm360198400/"
+  },
+  {
+    "number": 143,
+    "quote": "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.",
+    "quote_spa": "Desafortunadamente, nadie puede decirte qué es la Matrix. Tienes que verla por ti mismo.",
+    "movie": "The Matrix (1999)",
+    "movie_spa": "Matrix (1999)",
+    "character": "Morpheus",
+    "image_link": "https://www.imdb.com/title/tt0133093/mediaviewer/rm2972761600/"
+  },
+  {
+    "number": 144,
+    "quote": "There is no spoon.",
+    "quote_spa": "No hay cuchara.",
+    "movie": "The Matrix (1999)",
+    "movie_spa": "Matrix (1999)",
+    "character": "Spoon Boy",
+    "image_link": "https://www.imdb.com/title/tt0133093/mediaviewer/rm2972761600/"
+  },
+  {
+    "number": 145,
+    "quote": "Once you do something, you never forget. Even if you can't remember.",
+    "quote_spa": "Una vez que haces algo, nunca lo olvidas. Incluso si no puedes recordarlo.",
+    "movie": "Spirited Away (2001)",
+    "movie_spa": "El viaje de Chihiro (2001)",
+    "character": "Zeniba",
+    "image_link": "https://www.imdb.com/title/tt0245429/mediaviewer/rm1471269888/"
+  },
+  {
+    "number": 146,
+    "quote": "Roads? Where we're going, we don't need roads.",
+    "quote_spa": "¿Caminos? Donde vamos, no necesitamos caminos.",
+    "movie": "Back to the Future (1985)",
+    "movie_spa": "Volver al futuro (1985)",
+    "character": "Doc Brown",
+    "image_link": "https://www.imdb.com/title/tt0088763/mediaviewer/rm2465891328/"
+  },
+  {
+    "number": 147,
+    "quote": "It's not the years, honey. It’s the mileage.",
+    "quote_spa": "No son los años, cariño. Es el kilometraje.",
+    "movie": "Raiders of the Lost Ark (1981)",
+    "movie_spa": "Indiana Jones y los cazadores del arca perdida (1981)",
+    "character": "Indiana Jones",
+    "image_link": "https://www.imdb.com/title/tt0082971/mediaviewer/rm1236521472/"
+  },
+  {
+    "number": 148,
+    "quote": "I'll be right here.",
+    "quote_spa": "Yo estaré aquí.",
+    "movie": "E.T. the Extra-Terrestrial (1982)",
+    "movie_spa": "E.T., el extraterrestre (1982)",
+    "character": "E.T.",
+    "image_link": "https://www.imdb.com/title/tt0083866/mediaviewer/rm2918941696/"
+  },
+  {
+    "number": 149,
+    "quote": "I'll be back.",
+    "quote_spa": "Volveré.",
+    "movie": "The Terminator (1984)",
+    "movie_spa": "El exterminador (1984)",
+    "character": "The Terminator",
+    "image_link": "https://www.imdb.com/title/tt0088247/mediaviewer/rm141246464/"
+  },
+  {
+    "number": 150,
+    "quote": "Hasta la vista, baby.",
+    "quote_spa": "Hasta la vista, baby.",
+    "movie": "Terminator 2: Judgment Day (1991)",
+    "movie_spa": "Terminator 2: El juicio final (1991)",
+    "character": "The Terminator",
+    "image_link": "https://www.imdb.com/title/tt0103064/mediaviewer/rm3636578304/"
+  },
+  {
+    "number": 151,
+    "quote": "In space no one can hear you scream.",
+    "quote_spa": "En el espacio nadie puede oírte gritar.",
+    "movie": "Alien (1979)",
+    "movie_spa": "Alien: El octavo pasajero (1979)",
+    "character": "Tagline",
+    "image_link": "https://www.imdb.com/title/tt0078748/mediaviewer/rm1514315776/"
+  },
+  {
+    "number": 152,
+    "quote": "Get away from her, you bitch!",
+    "quote_spa": "¡Aléjate de ella, perra!",
+    "movie": "Aliens (1986)",
+    "movie_spa": "Aliens: El regreso (1986)",
+    "character": "Ripley",
+    "image_link": "https://www.imdb.com/title/tt0090605/mediaviewer/rm1224437760/"
+  },
+  {
+    "number": 153,
+    "quote": "You call this archaeology?",
+    "quote_spa": "¿A esto le llamas arqueología?",
+    "movie": "Indiana Jones and the Last Crusade (1989)",
+    "movie_spa": "Indiana Jones y la última cruzada (1989)",
+    "character": "Indiana Jones",
+    "image_link": "https://www.imdb.com/title/tt0097576/mediaviewer/rm4150102528/"
+  },
+  {
+    "number": 154,
+    "quote": "My God, it’s full of stars!",
+    "quote_spa": "¡Dios mío, está lleno de estrellas!",
+    "movie": "2001: A Space Odyssey (1968)",
+    "movie_spa": "2001: Odisea del espacio (1968)",
+    "character": "Dave Bowman",
+    "image_link": "https://www.imdb.com/title/tt0062622/mediaviewer/rm2326994944/"
+  },
+  {
+    "number": 155,
+    "quote": "I was cured, all right.",
+    "quote_spa": "Estaba curado, sí señor.",
+    "movie": "A Clockwork Orange (1971)",
+    "movie_spa": "La naranja mecánica (1971)",
+    "character": "Alex DeLarge",
+    "image_link": "https://www.imdb.com/title/tt0066921/mediaviewer/rm395901440/"
+  },
+  {
+    "number": 156,
+    "quote": "You talkin' to me?",
+    "quote_spa": "¿Me estás hablando a mí?",
+    "movie": "Taxi Driver (1976)",
+    "movie_spa": "Taxi Driver (1976)",
+    "character": "Travis Bickle",
+    "image_link": "https://www.imdb.com/title/tt0075314/mediaviewer/rm1309507584/"
+  },
+  {
+    "number": 157,
+    "quote": "I love the smell of napalm in the morning.",
+    "quote_spa": "Me encanta el olor a napalm por la mañana.",
+    "movie": "Apocalypse Now (1979)",
+    "movie_spa": "Apocalypse Now (1979)",
+    "character": "Lt. Col. Kilgore",
+    "image_link": "https://www.imdb.com/title/tt0078788/mediaviewer/rm1639114240/"
+  },
+  {
+    "number": 158,
+    "quote": "And here ya are, and it's a beautiful day.",
+    "quote_spa": "Y aquí están, y es un día hermoso.",
+    "movie": "Fargo (1996)",
+    "movie_spa": "Fargo (1996)",
+    "character": "Marge Gunderson",
+    "image_link": "https://www.imdb.com/title/tt0116282/mediaviewer/rm3509385472/"
+  },
+  {
+    "number": 159,
+    "quote": "Call it, friendo.",
+    "quote_spa": "Llámalo, amigo.",
+    "movie": "No Country for Old Men (2007)",
+    "movie_spa": "Sin lugar para los débiles (2007)",
+    "character": "Anton Chigurh",
+    "image_link": "https://www.imdb.com/title/tt0477348/mediaviewer/rm3462186752/"
+  },
+  {
+    "number": 160,
+    "quote": "You're not the only one who lost everything.",
+    "quote_spa": "No eres el único que lo perdió todo.",
+    "movie": "Pan's Labyrinth (2006)",
+    "movie_spa": "El laberinto del fauno (2006)",
+    "character": "Mercedes",
+    "image_link": "https://www.imdb.com/title/tt0457430/mediaviewer/rm588498688/"
+  },
+  {
+    "number": 161,
+    "quote": "As the sound of the playgrounds faded, the despair set in.",
+    "quote_spa": "Cuando el sonido de los patios de juego se desvaneció, se instaló la desesperación.",
+    "movie": "Children of Men (2006)",
+    "movie_spa": "Hijos de los hombres (2006)",
+    "character": "Theodore Faron",
+    "image_link": "https://www.imdb.com/title/tt0206634/mediaviewer/rm4216998400/"
+  },
+  {
+    "number": 162,
+    "quote": "If you could see your whole life from start to finish, would you change things?",
+    "quote_spa": "Si pudieras ver toda tu vida de principio a fin, ¿cambiarías algo?",
+    "movie": "Arrival (2016)",
+    "movie_spa": "La llegada (2016)",
+    "character": "Louise Banks",
+    "image_link": "https://www.imdb.com/title/tt2543164/mediaviewer/rm265314432/"
+  },
+  {
+    "number": 163,
+    "quote": "Meet me in Montauk.",
+    "quote_spa": "Encuéntrame en Montauk.",
+    "movie": "Eternal Sunshine of the Spotless Mind (2004)",
+    "movie_spa": "Eterno resplandor de una mente sin recuerdos (2004)",
+    "character": "Joel Barish",
+    "image_link": "https://www.imdb.com/title/tt0338013/mediaviewer/rm1491771136/"
+  },
+  {
+    "number": 164,
+    "quote": "Laugh and the world laughs with you. Weep and you weep alone.",
+    "quote_spa": "Ríe y el mundo ríe contigo. Llora y llorarás solo.",
+    "movie": "Oldboy (2003)",
+    "movie_spa": "Oldboy (2003)",
+    "character": "Oh Dae-su",
+    "image_link": "https://www.imdb.com/title/tt0364569/mediaviewer/rm315048704/"
+  },
+  {
+    "number": 165,
+    "quote": "Yeah, well, you know, that's just, like, your opinion, man.",
+    "quote_spa": "Sí, bueno, ya sabes, esa es solo tu opinión, amigo.",
+    "movie": "The Big Lebowski (1998)",
+    "movie_spa": "El gran Lebowski (1998)",
+    "character": "The Dude",
+    "image_link": "https://www.imdb.com/title/tt0118715/mediaviewer/rm3082454016/"
+  },
+  {
+    "number": 166,
+    "quote": "What is the air-speed velocity of an unladen swallow?",
+    "quote_spa": "¿Cuál es la velocidad de vuelo de una golondrina sin carga?",
+    "movie": "Monty Python and the Holy Grail (1975)",
+    "movie_spa": "Los caballeros de la mesa cuadrada y sus locos seguidores (1975)",
+    "character": "King Arthur",
+    "image_link": "https://www.imdb.com/title/tt0071853/mediaviewer/rm317020160/"
+  },
+  {
+    "number": 167,
+    "quote": "Surely you can't be serious. I am serious. And don't call me Shirley.",
+    "quote_spa": "Seguramente no hablas en serio. Hablo en serio. Y no me llames Shirley.",
+    "movie": "Airplane! (1980)",
+    "movie_spa": "¿Dónde está el piloto? (1980)",
+    "character": "Rumack",
+    "image_link": "https://www.imdb.com/title/tt0080339/mediaviewer/rm3399291136/"
+  },
+  {
+    "number": 168,
+    "quote": "As you wish.",
+    "quote_spa": "Como desees.",
+    "movie": "The Princess Bride (1987)",
+    "movie_spa": "La princesa prometida (1987)",
+    "character": "Westley",
+    "image_link": "https://www.imdb.com/title/tt0093779/mediaviewer/rm357362176/"
+  },
+  {
+    "number": 169,
+    "quote": "Who you gonna call?",
+    "quote_spa": "¿A quién vas a llamar?",
+    "movie": "Ghostbusters (1984)",
+    "movie_spa": "Los Cazafantasmas (1984)",
+    "character": "Tagline",
+    "image_link": "https://www.imdb.com/title/tt0087332/mediaviewer/rm4228315904/"
+  },
+  {
+    "number": 170,
+    "quote": "It's showtime!",
+    "quote_spa": "¡Es hora del show!",
+    "movie": "Beetlejuice (1988)",
+    "movie_spa": "Beetlejuice: El súper fantasma (1988)",
+    "character": "Beetlejuice",
+    "image_link": "https://www.imdb.com/title/tt0094721/mediaviewer/rm4011779584/"
+  },
+  {
+    "number": 171,
+    "quote": "I'll have what she's having.",
+    "quote_spa": "Tomaré lo que ella está tomando.",
+    "movie": "When Harry Met Sally... (1989)",
+    "movie_spa": "Cuando Harry conoció a Sally (1989)",
+    "character": "Customer",
+    "image_link": "https://www.imdb.com/title/tt0098635/mediaviewer/rm3144876544/"
+  },
+  {
+    "number": 172,
+    "quote": "Well, what if there is no tomorrow? There wasn't one today.",
+    "quote_spa": "Bueno, ¿y si no hay un mañana? Hoy tampoco lo hubo.",
+    "movie": "Groundhog Day (1993)",
+    "movie_spa": "Hechizo del tiempo (1993)",
+    "character": "Phil Connors",
+    "image_link": "https://www.imdb.com/title/tt0107048/mediaviewer/rm2452323584/"
+  },
+  {
+    "number": 173,
+    "quote": "So you're telling me there's a chance.",
+    "quote_spa": "Entonces me estás diciendo que hay una posibilidad.",
+    "movie": "Dumb and Dumber (1994)",
+    "movie_spa": "Tonto y retonto (1994)",
+    "character": "Lloyd Christmas",
+    "image_link": "https://www.imdb.com/title/tt0109686/mediaviewer/rm157302784/"
+  },
+  {
+    "number": 174,
+    "quote": "Ugh, as if!",
+    "quote_spa": "¡Ay, ni pensarlo!",
+    "movie": "Clueless (1995)",
+    "movie_spa": "Ni idea (1995)",
+    "character": "Cher Horowitz",
+    "image_link": "https://www.imdb.com/title/tt0112697/mediaviewer/rm2635039232/"
+  },
+  {
+    "number": 175,
+    "quote": "Anybody else want to negotiate?",
+    "quote_spa": "¿Alguien más quiere negociar?",
+    "movie": "The Fifth Element (1997)",
+    "movie_spa": "El quinto elemento (1997)",
+    "character": "Korben Dallas",
+    "image_link": "https://www.imdb.com/title/tt0119116/mediaviewer/rm3720106496/"
+  },
+  {
+    "number": 176,
+    "quote": "In the quiet words of the Virgin Mary... come again?",
+    "quote_spa": "En las silenciosas palabras de la Virgen María... ¿cómo?",
+    "movie": "Snatch (2000)",
+    "movie_spa": "Snatch: Cerdos y diamantes (2000)",
+    "character": "Brick Top",
+    "image_link": "https://www.imdb.com/title/tt0208092/mediaviewer/rm2908771840/"
+  },
+  {
+    "number": 177,
+    "quote": "You've got red on you.",
+    "quote_spa": "Tienes sangre encima.",
+    "movie": "Shaun of the Dead (2004)",
+    "movie_spa": "Muertos de risa (2004)",
+    "character": "Shaun",
+    "image_link": "https://www.imdb.com/title/tt0365748/mediaviewer/rm1342721536/"
+  },
+  {
+    "number": 178,
+    "quote": "The greater good.",
+    "quote_spa": "El bien mayor.",
+    "movie": "Hot Fuzz (2007)",
+    "movie_spa": "Arma fatal (2007)",
+    "character": "Inspector Frank Butterman",
+    "image_link": "https://www.imdb.com/title/tt0425112/mediaviewer/rm1182429696/"
+  },
+  {
+    "number": 179,
+    "quote": "I'm in lesbians with you.",
+    "quote_spa": "Estoy locamente enamorado de ti.",
+    "movie": "Scott Pilgrim vs. the World (2010)",
+    "movie_spa": "Scott Pilgrim vs. los ex de la chica de sus sueños (2010)",
+    "character": "Scott Pilgrim",
+    "image_link": "https://www.imdb.com/title/tt0446029/mediaviewer/rm2930866944/"
+  },
+  {
+    "number": 180,
+    "quote": "I love lamp.",
+    "quote_spa": "Amo la lámpara.",
+    "movie": "Anchorman: The Legend of Ron Burgundy (2004)",
+    "movie_spa": "El reportero: La leyenda de Ron Burgundy (2004)",
+    "character": "Brick Tamland",
+    "image_link": "https://www.imdb.com/title/tt0357413/mediaviewer/rm1607034880/"
+  },
+  {
+    "number": 181,
+    "quote": "I am McLovin.",
+    "quote_spa": "Soy McLovin.",
+    "movie": "Superbad (2007)",
+    "movie_spa": "Supercool (2007)",
+    "character": "Fogell (McLovin)",
+    "image_link": "https://www.imdb.com/title/tt0829482/mediaviewer/rm3299904512/"
+  },
+  {
+    "number": 182,
+    "quote": "You just got killed by a Daewoo Lanos, motherf***er!",
+    "quote_spa": "¡Te acaba de matar un Daewoo Lanos, hijo de p***!",
+    "movie": "Pineapple Express (2008)",
+    "movie_spa": "Piña Express: Ríndete si puedes (2008)",
+    "character": "Red",
+    "image_link": "https://www.imdb.com/title/tt0910936/mediaviewer/rm3680186368/"
+  },
+  {
+    "number": 183,
+    "quote": "Moisture is the essence of wetness, and wetness is the essence of beauty.",
+    "quote_spa": "La humedad es la esencia de lo mojado, y lo mojado es la esencia de la belleza.",
+    "movie": "Zoolander (2001)",
+    "movie_spa": "Zoolander: Un descerebrado de moda (2001)",
+    "character": "Derek Zoolander",
+    "image_link": "https://www.imdb.com/title/tt0196229/mediaviewer/rm3031169536/"
+  },
+  {
+    "number": 184,
+    "quote": "You sit on a throne of lies.",
+    "quote_spa": "Te sientas en un trono de mentiras.",
+    "movie": "Elf (2003)",
+    "movie_spa": "Elf: El duende (2003)",
+    "character": "Buddy",
+    "image_link": "https://www.imdb.com/title/tt0319343/mediaviewer/rm2358270976/"
+  },
+  {
+    "number": 185,
+    "quote": "Did we just become best friends?",
+    "quote_spa": "¿Acabamos de convertirnos en mejores amigos?",
+    "movie": "Step Brothers (2008)",
+    "movie_spa": "Hermanastros (2008)",
+    "character": "Brennan Huff",
+    "image_link": "https://www.imdb.com/title/tt0838283/mediaviewer/rm3570456576/"
+  },
+  {
+    "number": 186,
+    "quote": "What happens in Vegas, stays in Vegas.",
+    "quote_spa": "Lo que pasa en Las Vegas, se queda en Las Vegas.",
+    "movie": "The Hangover (2009)",
+    "movie_spa": "¿Qué pasó ayer? (2009)",
+    "character": "Tagline",
+    "image_link": "https://www.imdb.com/title/tt1119646/mediaviewer/rm3522863616/"
+  },
+  {
+    "number": 187,
+    "quote": "Help me, I'm poor.",
+    "quote_spa": "Ayúdame, soy pobre.",
+    "movie": "Bridesmaids (2011)",
+    "movie_spa": "Damas en guerra (2011)",
+    "character": "Annie Walker",
+    "image_link": "https://www.imdb.com/title/tt1478338/mediaviewer/rm1965364736/"
+  },
+  {
+    "number": 188,
+    "quote": "You look like Johnny Depp. No, I look like Brad Pitt.",
+    "quote_spa": "Te pareces a Johnny Depp. No, me parezco a Brad Pitt.",
+    "movie": "21 Jump Street (2012)",
+    "movie_spa": "Comando especial (2012)",
+    "character": "Morton Schmidt",
+    "image_link": "https://www.imdb.com/title/tt1232829/mediaviewer/rm1089947136/"
+  },
+  {
+    "number": 189,
+    "quote": "We are Groot.",
+    "quote_spa": "Somos Groot.",
+    "movie": "Guardians of the Galaxy (2014)",
+    "movie_spa": "Guardianes de la Galaxia (2014)",
+    "character": "Groot",
+    "image_link": "https://www.imdb.com/title/tt2015381/mediaviewer/rm2299313152/"
+  },
+  {
+    "number": 190,
+    "quote": "Oh what a day, what a lovely day!",
+    "quote_spa": "¡Oh, qué día, qué día tan hermoso!",
+    "movie": "Mad Max: Fury Road (2015)",
+    "movie_spa": "Mad Max: Furia en el camino (2015)",
+    "character": "Nux",
+    "image_link": "https://www.imdb.com/title/tt1392190/mediaviewer/rm2367806464/"
+  },
+  {
+    "number": 191,
+    "quote": "You know what’s wrong with you, Miss Whoever-You-Are? You’re chicken.",
+    "quote_spa": "¿Sabes qué es lo que te pasa, señorita quien-seas? Eres una gallina.",
+    "movie": "Baby Driver (2017)",
+    "movie_spa": "Baby: El aprendiz del crimen (2017)",
+    "character": "Doc",
+    "image_link": "https://www.imdb.com/title/tt3890160/mediaviewer/rm154077312/"
+  },
+  {
+    "number": 192,
+    "quote": "Get out.",
+    "quote_spa": "Sal.",
+    "movie": "Get Out (2017)",
+    "movie_spa": "¡Huye! (2017)",
+    "character": "Georgina",
+    "image_link": "https://www.imdb.com/title/tt5052448/mediaviewer/rm3453060352/"
+  },
+  {
+    "number": 193,
+    "quote": "Remember me.",
+    "quote_spa": "Recuérdame.",
+    "movie": "Coco (2017)",
+    "movie_spa": "Coco (2017)",
+    "character": "Héctor",
+    "image_link": "https://www.imdb.com/title/tt2380307/mediaviewer/rm2418738176/"
+  },
+  {
+    "number": 194,
+    "quote": "Anyone can wear the mask.",
+    "quote_spa": "Cualquiera puede usar la máscara.",
+    "movie": "Spider-Man: Into the Spider-Verse (2018)",
+    "movie_spa": "Spider-Man: Un nuevo universo (2018)",
+    "character": "Miles Morales",
+    "image_link": "https://www.imdb.com/title/tt4633694/mediaviewer/rm2940365568/"
+  },
+  {
+    "number": 195,
+    "quote": "It’s a weird case from the start.",
+    "quote_spa": "Es un caso extraño desde el principio.",
+    "movie": "Knives Out (2019)",
+    "movie_spa": "Entre navajas y secretos (2019)",
+    "character": "Benoit Blanc",
+    "image_link": "https://www.imdb.com/title/tt8946378/mediaviewer/rm3731321857/"
+  },
+  {
+    "number": 196,
+    "quote": "You’re not a Nazi, Jojo. You’re a ten-year-old kid who likes dressing up in a funny uniform.",
+    "quote_spa": "No eres un nazi, Jojo. Eres un niño de diez años al que le gusta disfrazarse con un uniforme divertido.",
+    "movie": "Jojo Rabbit (2019)",
+    "movie_spa": "Jojo Rabbit (2019)",
+    "character": "Rosie",
+    "image_link": "https://www.imdb.com/title/tt2584384/mediaviewer/rm2612288512/"
+  },
+  {
+    "number": 197,
+    "quote": "What I love about Nicole is she is a mother who plays, really plays.",
+    "quote_spa": "Lo que amo de Nicole es que es una madre que juega, realmente juega.",
+    "movie": "Marriage Story (2019)",
+    "movie_spa": "Historia de un matrimonio (2019)",
+    "character": "Charlie Barber",
+    "image_link": "https://www.imdb.com/title/tt7653254/mediaviewer/rm1134685185/"
+  },
+  {
+    "number": 198,
+    "quote": "Women, they have minds, and they have souls, as well as just hearts.",
+    "quote_spa": "Las mujeres tienen mentes, y tienen almas, además de solo corazones.",
+    "movie": "Little Women (2019)",
+    "movie_spa": "Mujercitas (2019)",
+    "character": "Jo March",
+    "image_link": "https://www.imdb.com/title/tt3281548/mediaviewer/rm2818429697/"
+  },
+  {
+    "number": 199,
+    "quote": "We’re lighter, faster, and more fuel-efficient than any car out there.",
+    "quote_spa": "Somos más ligeros, más rápidos y más eficientes en combustible que cualquier otro auto.",
+    "movie": "Ford v Ferrari (2019)",
+    "movie_spa": "Contra lo imposible (2019)",
+    "character": "Carroll Shelby",
+    "image_link": "https://www.imdb.com/title/tt1950186/mediaviewer/rm1652328960/"
+  },
+  {
+    "number": 200,
+    "quote": "You're Rick f***ing Dalton. Don’t you forget it.",
+    "quote_spa": "Eres Rick jodido Dalton. No lo olvides.",
+    "movie": "Once Upon a Time in Hollywood (2019)",
+    "movie_spa": "Había una vez en... Hollywood (2019)",
+    "character": "Cliff Booth",
+    "image_link": "https://www.imdb.com/title/tt7131622/mediaviewer/rm1691618305/"
+  },
+  {
+    "number": 201,
+    "quote": "We are alone. No matter what they tell you, we women are always alone.",
+    "quote_spa": "Estamos solas. No importa lo que te digan, las mujeres siempre estamos solas.",
+    "movie": "Roma (2018)",
+    "movie_spa": "Roma (2018)",
+    "character": "Sra. Teresa",
+    "image_link": "https://www.imdb.com/title/tt6155172/mediaviewer/rm2116449792/"
+  },
+  {
+    "number": 202,
+    "quote": "I remember everything.",
+    "quote_spa": "Lo recuerdo todo.",
+    "movie": "Call Me by Your Name (2017)",
+    "movie_spa": "Llámame por tu nombre (2017)",
+    "character": "Elio",
+    "image_link": "https://www.imdb.com/title/tt5726616/mediaviewer/rm1564023808/"
+  },
+  {
+    "number": 203,
+    "quote": "I can't beat it. I can't beat it. I'm sorry.",
+    "quote_spa": "No puedo vencerlo. No puedo vencerlo. Lo siento.",
+    "movie": "Manchester by the Sea (2016)",
+    "movie_spa": "Manchester junto al mar (2016)",
+    "character": "Lee Chandler",
+    "image_link": "https://www.imdb.com/title/tt4034228/mediaviewer/rm1610853888/"
+  },
+  {
+    "number": 204,
+    "quote": "Here’s to the fools who dream.",
+    "quote_spa": "Un brindis por los tontos que sueñan.",
+    "movie": "La La Land (2016)",
+    "movie_spa": "La La Land: Una historia de amor (2016)",
+    "character": "Mia",
+    "image_link": "https://www.imdb.com/title/tt3783958/mediaviewer/rm192851456/"
+  },
+  {
+    "number": 205,
+    "quote": "Love you to the moon and back.",
+    "quote_spa": "Te amo de aquí a la luna y de regreso.",
+    "movie": "Room (2015)",
+    "movie_spa": "La habitación (2015)",
+    "character": "Joy Newsome",
+    "image_link": "https://www.imdb.com/title/tt3170832/mediaviewer/rm2016679424/"
+  },
+  {
+    "number": 206,
+    "quote": "Take her to the moon for me, okay?",
+    "quote_spa": "Llévala a la luna por mí, ¿de acuerdo?",
+    "movie": "Inside Out (2015)",
+    "movie_spa": "Intensa-Mente (2015)",
+    "character": "Bing Bong",
+    "image_link": "https://www.imdb.com/title/tt2096673/mediaviewer/rm2375857664/"
+  },
+  {
+    "number": 207,
+    "quote": "A thing is a thing, not what is said of that thing.",
+    "quote_spa": "Una cosa es una cosa, no lo que se dice de esa cosa.",
+    "movie": "Birdman (2014)",
+    "movie_spa": "Birdman o (La inesperada virtud de la ignorancia) (2014)",
+    "character": "Riggan Thomson",
+    "image_link": "https://www.imdb.com/title/tt2562232/mediaviewer/rm2846347008/"
+  },
+  {
+    "number": 208,
+    "quote": "It's always gonna be the same, and it's always gonna be changing.",
+    "quote_spa": "Siempre será igual y siempre estará cambiando.",
+    "movie": "Boyhood (2014)",
+    "movie_spa": "Boyhood: Momentos de una vida (2014)",
+    "character": "Mason",
+    "image_link": "https://www.imdb.com/title/tt1065073/mediaviewer/rm3765846528/"
+  },
+  {
+    "number": 209,
+    "quote": "Cool Girl. Men always use that, don’t they?",
+    "quote_spa": "Chica genial. Los hombres siempre usan eso, ¿no?",
+    "movie": "Gone Girl (2014)",
+    "movie_spa": "Perdida (2014)",
+    "character": "Amy Dunne",
+    "image_link": "https://www.imdb.com/title/tt2267998/mediaviewer/rm1517736960/"
+  },
+  {
+    "number": 210,
+    "quote": "I'm gonna have to science the shit out of this.",
+    "quote_spa": "Voy a tener que hacer ciencia como nunca.",
+    "movie": "The Martian (2015)",
+    "movie_spa": "Misión Rescate (2015)",
+    "character": "Mark Watney",
+    "image_link": "https://www.imdb.com/title/tt3659388/mediaviewer/rm3356813056/"
+  },
+  {
+    "number": 211,
+    "quote": "Some of these were real, and some of these were fake.",
+    "quote_spa": "Algunas de estas eran reales, y otras eran falsas.",
+    "movie": "American Hustle (2013)",
+    "movie_spa": "Escándalo americano (2013)",
+    "character": "Irving Rosenfeld",
+    "image_link": "https://www.imdb.com/title/tt1800241/mediaviewer/rm1772530176/"
+  },
+  {
+    "number": 212,
+    "quote": "Sometimes it feels like people who have nothing are the ones who give the most.",
+    "quote_spa": "A veces parece que las personas que no tienen nada son las que más dan.",
+    "movie": "Dallas Buyers Club (2013)",
+    "movie_spa": "El club de los desahuciados (2013)",
+    "character": "Ron Woodroof",
+    "image_link": "https://www.imdb.com/title/tt0790636/mediaviewer/rm3245477888/"
+  },
+  {
+    "number": 213,
+    "quote": "Pray for the best, prepare for the worst.",
+    "quote_spa": "Reza por lo mejor, prepárate para lo peor.",
+    "movie": "Prisoners (2013)",
+    "movie_spa": "Prisioneros (2013)",
+    "character": "Keller Dover",
+    "image_link": "https://www.imdb.com/title/tt1392214/mediaviewer/rm2092217344/"
+  },
+  {
+    "number": 214,
+    "quote": "I like the way you die, boy.",
+    "quote_spa": "Me gusta cómo mueres, chico.",
+    "movie": "Django Unchained (2012)",
+    "movie_spa": "Django sin cadenas (2012)",
+    "character": "Django",
+    "image_link": "https://www.imdb.com/title/tt1853728/mediaviewer/rm2681520640/"
+  },
+  {
+    "number": 215,
+    "quote": "Which story do you prefer?",
+    "quote_spa": "¿Qué historia prefieres?",
+    "movie": "Life of Pi (2012)",
+    "movie_spa": "Una aventura extraordinaria (2012)",
+    "character": "Pi Patel",
+    "image_link": "https://www.imdb.com/title/tt0454876/mediaviewer/rm1669684224/"
+  },
+  {
+    "number": 216,
+    "quote": "Argo f*** yourself.",
+    "quote_spa": "Argo, vete a la m****a.",
+    "movie": "Argo (2012)",
+    "movie_spa": "Argo (2012)",
+    "character": "Tony Mendez",
+    "image_link": "https://www.imdb.com/title/tt1024648/mediaviewer/rm414781952/"
+  },
+  {
+    "number": 217,
+    "quote": "Paradise can go f*** itself.",
+    "quote_spa": "El paraíso puede irse a la m****a.",
+    "movie": "The Descendants (2011)",
+    "movie_spa": "Los descendientes (2011)",
+    "character": "Matt King",
+    "image_link": "https://www.imdb.com/title/tt1033575/mediaviewer/rm3545221120/"
+  },
+  {
+    "number": 218,
+    "quote": "You know what is beautiful? Confidence.",
+    "quote_spa": "¿Sabes qué es hermoso? La confianza.",
+    "movie": "Drive (2011)",
+    "movie_spa": "Drive: El escape (2011)",
+    "character": "Driver",
+    "image_link": "https://www.imdb.com/title/tt0780504/mediaviewer/rm4179879680/"
+  },
+  {
+    "number": 219,
+    "quote": "How can you not be romantic about baseball?",
+    "quote_spa": "¿Cómo no vas a ser romántico con el béisbol?",
+    "movie": "Moneyball (2011)",
+    "movie_spa": "El juego de la fortuna (2011)",
+    "character": "Billy Beane",
+    "image_link": "https://www.imdb.com/title/tt1210166/mediaviewer/rm4243660544/"
+  },
+  {
+    "number": 220,
+    "quote": "I do not fear death, but I do fear the judgment that will follow.",
+    "quote_spa": "No temo a la muerte, pero sí al juicio que seguirá.",
+    "movie": "True Grit (2010)",
+    "movie_spa": "Temple de acero (2010)",
+    "character": "Rooster Cogburn",
+    "image_link": "https://www.imdb.com/title/tt1403865/mediaviewer/rm3616773120/"
+  },
+  {
+    "number": 221,
+    "quote": "Each and every man under my command owes me one hundred Nazi scalps.",
+    "quote_spa": "Cada hombre bajo mi mando me debe cien cabelleras nazis.",
+    "movie": "Inglourious Basterds (2009)",
+    "movie_spa": "Bastardos sin gloria (2009)",
+    "character": "Lt. Aldo Raine",
+    "image_link": "https://www.imdb.com/title/tt0361748/mediaviewer/rm3416657664/"
+  },
+  {
+    "number": 222,
+    "quote": "Adventure is out there!",
+    "quote_spa": "¡La aventura está ahí afuera!",
+    "movie": "Up (2009)",
+    "movie_spa": "Up: Una aventura de altura (2009)",
+    "character": "Ellie",
+    "image_link": "https://www.imdb.com/title/tt1049413/mediaviewer/rm281744256/"
+  },
+  {
+    "number": 223,
+    "quote": "I don't want to survive. I want to live.",
+    "quote_spa": "No quiero sobrevivir. Quiero vivir.",
+    "movie": "Wall-E (2008)",
+    "movie_spa": "WALL·E (2008)",
+    "character": "Captain",
+    "image_link": "https://www.imdb.com/title/tt0910970/mediaviewer/rm3819327744/"
+  },
+  {
+    "number": 224,
+    "quote": "I drink your milkshake! I drink it up!",
+    "quote_spa": "¡Me bebo tu batido! ¡Me lo bebo todo!",
+    "movie": "There Will Be Blood (2007)",
+    "movie_spa": "Petróleo sangriento (2007)",
+    "character": "Daniel Plainview",
+    "image_link": "https://www.imdb.com/title/tt0469494/mediaviewer/rm1947907584/"
+  },
+  {
+    "number": 225,
+    "quote": "Do what you love, and f*** the rest.",
+    "quote_spa": "Haz lo que amas y que se joda el resto.",
+    "movie": "Little Miss Sunshine (2006)",
+    "movie_spa": "Pequeña Miss Sunshine (2006)",
+    "character": "Dwayne",
+    "image_link": "https://www.imdb.com/title/tt0449059/mediaviewer/rm3487517696/"
+  },
+  {
+    "number": 226,
+    "quote": "Walk down the right back alley in Sin City and you can find anything.",
+    "quote_spa": "Camina por el callejón correcto en Sin City y puedes encontrar cualquier cosa.",
+    "movie": "Sin City (2005)",
+    "movie_spa": "Sin City: La ciudad del pecado (2005)",
+    "character": "Marv",
+    "image_link": "https://www.imdb.com/title/tt0401792/mediaviewer/rm1276493824/"
+  },
+  {
+    "number": 227,
+    "quote": "In L.A., nobody touches you. We're always behind this metal and glass.",
+    "quote_spa": "En L.A., nadie te toca. Siempre estamos detrás de metal y vidrio.",
+    "movie": "Crash (2004)",
+    "movie_spa": "Alto impacto (2004)",
+    "character": "Graham Waters",
+    "image_link": "https://www.imdb.com/title/tt0375679/mediaviewer/rm294858752/"
+  },
+  {
+    "number": 228,
+    "quote": "Revenge is never a straight line.",
+    "quote_spa": "La venganza nunca es una línea recta.",
+    "movie": "Kill Bill: Vol. 1 (2003)",
+    "movie_spa": "Kill Bill: La venganza: Volumen 1 (2003)",
+    "character": "Hattori Hanzo",
+    "image_link": "https://www.imdb.com/title/tt0266697/mediaviewer/rm1144070656/"
+  },
+  {
+    "number": 229,
+    "quote": "Let's never come here again because it would never be as much fun.",
+    "quote_spa": "Nunca volvamos aquí porque nunca sería tan divertido.",
+    "movie": "Lost in Translation (2003)",
+    "movie_spa": "Perdidos en Tokio (2003)",
+    "character": "Charlotte",
+    "image_link": "https://www.imdb.com/title/tt0335266/mediaviewer/rm2480645376/"
+  },
+  {
+    "number": 230,
+    "quote": "Catch me if you can!",
+    "quote_spa": "¡Atrápame si puedes!",
+    "movie": "Catch Me If You Can (2002)",
+    "movie_spa": "Atrápame si puedes (2002)",
+    "character": "Frank Abagnale Jr.",
+    "image_link": "https://www.imdb.com/title/tt0264464/mediaviewer/rm2575081472/"
+  },
+  {
+    "number": 231,
+    "quote": "I don't want to be remembered. I want to be forgotten.",
+    "quote_spa": "No quiero ser recordado. Quiero ser olvidado.",
+    "movie": "Gangs of New York (2002)",
+    "movie_spa": "Pandillas de Nueva York (2002)",
+    "character": "Bill 'The Butcher' Cutting",
+    "image_link": "https://www.imdb.com/title/tt0217505/mediaviewer/rm3593665536/"
+  },
+  {
+    "number": 232,
+    "quote": "King Kong ain't got shit on me!",
+    "quote_spa": "¡King Kong no es nada comparado conmigo!",
+    "movie": "Training Day (2001)",
+    "movie_spa": "Día de entrenamiento (2001)",
+    "character": "Alonzo Harris",
+    "image_link": "https://www.imdb.com/title/tt0139654/mediaviewer/rm2273634048/"
+  },
+  {
+    "number": 233,
+    "quote": "I would rather be a ghost, drifting by your side as a condemned soul.",
+    "quote_spa": "Preferiría ser un fantasma, vagando a tu lado como un alma condenada.",
+    "movie": "Crouching Tiger, Hidden Dragon (2000)",
+    "movie_spa": "El tigre y el dragón (2000)",
+    "character": "Li Mu Bai",
+    "image_link": "https://www.imdb.com/title/tt0190332/mediaviewer/rm164210944/"
+  },
+  {
+    "number": 234,
+    "quote": "I always tell the girls, never take it seriously.",
+    "quote_spa": "Siempre les digo a las chicas, nunca se lo tomen en serio.",
+    "movie": "Almost Famous (2000)",
+    "movie_spa": "Casi famosos (2000)",
+    "character": "Penny Lane",
+    "image_link": "https://www.imdb.com/title/tt0181875/mediaviewer/rm2695021568/"
+  },
+  {
+    "number": 235,
+    "quote": "It’s not your fault.",
+    "quote_spa": "No es tu culpa.",
+    "movie": "Good Will Hunting (1997)",
+    "movie_spa": "En busca del destino (1997)",
+    "character": "Sean Maguire",
+    "image_link": "https://www.imdb.com/title/tt0119217/mediaviewer/rm2882564096/"
+  },
+  {
+    "number": 236,
+    "quote": "Sometimes the green mile seems so long.",
+    "quote_spa": "A veces, la milla verde parece tan larga.",
+    "movie": "The Green Mile (1999)",
+    "movie_spa": "Milagros inesperados (1999)",
+    "character": "Paul Edgecomb",
+    "image_link": "https://www.imdb.com/title/tt0120689/mediaviewer/rm413779968/"
+  },
+  {
+    "number": 237,
+    "quote": "What's in the box?",
+    "quote_spa": "¿Qué hay en la caja?",
+    "movie": "Se7en (1995)",
+    "movie_spa": "Pecados capitales (1995)",
+    "character": "David Mills",
+    "image_link": "https://www.imdb.com/title/tt0114369/mediaviewer/rm4212643328/"
+  },
+  {
+    "number": 238,
+    "quote": "Earn this.",
+    "quote_spa": "Gánatelo.",
+    "movie": "Saving Private Ryan (1998)",
+    "movie_spa": "Rescatando al soldado Ryan (1998)",
+    "character": "Captain John H. Miller",
+    "image_link": "https://www.imdb.com/title/tt0120815/mediaviewer/rm1279948288/"
+  },
+  {
+    "number": 239,
+    "quote": "To infinity and beyond!",
+    "quote_spa": "¡Al infinito y más allá!",
+    "movie": "Toy Story 2 (1999)",
+    "movie_spa": "Toy Story 2 (1999)",
+    "character": "Buzz Lightyear",
+    "image_link": "https://www.imdb.com/title/tt0120363/mediaviewer/rm229929728/"
+  },
+  {
+    "number": 240,
+    "quote": "You are who you choose to be.",
+    "quote_spa": "Eres quien eliges ser.",
+    "movie": "The Iron Giant (1999)",
+    "movie_spa": "El gigante de hierro (1999)",
+    "character": "Hogarth Hughes",
+    "image_link": "https://www.imdb.com/title/tt0129167/mediaviewer/rm4060956928/"
+  },
+  {
+    "number": 241,
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he didn’t exist.",
+    "quote_spa": "El mejor truco que hizo el Diablo fue convencer al mundo de que no existía.",
+    "movie": "The Usual Suspects (1995)",
+    "movie_spa": "Sospechosos comunes (1995)",
+    "character": "Verbal Kint",
+    "image_link": "https://www.imdb.com/title/tt0114814/mediaviewer/rm243861632/"
+  },
+  {
+    "number": 242,
+    "quote": "Don't let yourself get attached to anything you are not willing to walk out on in 30 seconds flat.",
+    "quote_spa": "No te apegues a nada que no puedas dejar en 30 segundos.",
+    "movie": "Heat (1995)",
+    "movie_spa": "Fuego contra fuego (1995)",
+    "character": "Neil McCauley",
+    "image_link": "https://www.imdb.com/title/tt0113277/mediaviewer/rm221997056/"
+  },
+  {
+    "number": 243,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "quote_spa": "¿La vida siempre es así de dura, o solo cuando eres niño?",
+    "movie": "Leon: The Professional (1994)",
+    "movie_spa": "El perfecto asesino (1994)",
+    "character": "Mathilda",
+    "image_link": "https://www.imdb.com/title/tt0110413/mediaviewer/rm2164306432/"
+  },
+  {
+    "number": 244,
+    "quote": "I feel the need — the need for speed!",
+    "quote_spa": "¡Siento la necesidad... la necesidad de velocidad!",
+    "movie": "Top Gun (1986)",
+    "movie_spa": "Top Gun: Pasión y gloria (1986)",
+    "character": "Maverick",
+    "image_link": "https://www.imdb.com/title/tt0092099/mediaviewer/rm1701651456/"
+  },
+  {
+    "number": 245,
+    "quote": "Keep the change, ya filthy animal.",
+    "quote_spa": "Quédate con el cambio, animal sucio.",
+    "movie": "Home Alone (1990)",
+    "movie_spa": "Mi pobre angelito (1990)",
+    "character": "Gangster Johnny",
+    "image_link": "https://www.imdb.com/title/tt0099785/mediaviewer/rm398413056/"
   }
 ]
